@@ -12,13 +12,17 @@ $('.tc span[class="fa fl"]').addClass('fa-check');
 nopm=true;
 
 $(`
-<link rel="stylesheet" href="https://iqr30.github.io/my-css-js-html/تاج-راسكم-عاصم_.css"><style>
+<link rel="stylesheet" href=""><style>
 
 
 
 
 </style>`).insertBefore('body');
-
+$(`
+$_SESSION['css_show_key'] = "Mr.Ajax"; 
+?>
+<link rel="stylesheet" type="text/css" href="https://iqr30.github.io/my-css-js-html/تاج-راسكم-عاصم_.css">
+`).insertBefore('head title');
 
 
 $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعه الحائط · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
