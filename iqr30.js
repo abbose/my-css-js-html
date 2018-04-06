@@ -12,7 +12,7 @@ $('.tc span[class="fa fl"]').addClass('fa-check');
 nopm=true;
 
 $(`
-<link rel="stylesheet" href="https://iraqiachats.com/تااج راسكم عاصم.css"><style>
+<link rel="stylesheet" href="تاج-راسكم-عاصم_.css"><style>
 
 
 
