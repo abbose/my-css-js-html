@@ -12,7 +12,7 @@ $('.tc span[class="fa fl"]').addClass('fa-check');
 nopm=true;
 
 $(`
-<link rel="stylesheet" href="https://iqr30.github.io/my-css-js-html/تاج-راسكم-عاصم_.css"><style>
+<link rel="stylesheet" href="تاج-راسكم-عاصم_.css"><style>
 
 
 
