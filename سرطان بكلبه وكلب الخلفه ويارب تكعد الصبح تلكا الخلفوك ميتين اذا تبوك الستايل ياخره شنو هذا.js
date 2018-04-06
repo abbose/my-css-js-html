@@ -105,6 +105,88 @@ font-family: 'jazeera',FontAwesome;
 }
 .s1.fa.fa-user.label.bagex.label-as-badge.label-successd {background-color: #FFE0F6!important;}
 .s1.fa.fa-user.label.badgex.label-as-badge.label-success {color: #BA4E86;}
-.fl.label.loginstat.label-success, .fl.label.loginstat.label-info {color: #BA4E86;border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 5px 5px;margin-top: 1px;background-color: #FFFFFF!important;}button.btn.fr.btn-success.fa.fa-refresh {padding: 4px 5px;background-color: #782952!important;background-image: none;border: 2px solid transparent;margin-top: -3px;border-radius: 50px;}.btn.btn-primary.btn-sm {border-radius: 30px 30px 0px 30px; class: asim11;}div#tlogins .border.corner, div#tlogins .border.corner {border: 1px solid #FFE0F6;}body.bg .center-block.bg.dad div#tlogins {height: auto!important;}div#tlogins {border: 1px solid #FFE0F6;border-radius: 20px 20px 0px 0px;}.hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border {border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 10px 10px;}body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png)}label.btn.minix.btn-danger.phide.fr.border.fa.fa-minus {border-radius: 40px 40px 40px 0px; margin: 1px; border: 1px solid #E04646; class: asim11;}label.btn.btn-info.fr.border.fa.fa-expand {border-radius: 25px 25px 0px 25px; margin: 1px; border: 1px solid #FFE0F6; class: asim11;}label.label.tc.border.btn.label-info.fl {border-radius: 40px 40px 0px 40px}label.label.tc.border.btn.label-danger.fl {background-color: #E04646; border-radius: 40px 40px 0px 40px}label.label.tc.border.btn.fl {border-radius: 40px 40px 0px 40px}label.label.tc.border.pmsg.btn.label-info.fl {border-radius: 40px 40px 0px 40px}label.label.tc.border.redit.btn.label-info.fl {border-radius: 40px 40px 0px 40px}label.label.tc.border.cp.btn.label-danger.fl {border-radius: 40px 40px 0px 40px}label.label.border.btn.label-danger.tc.fl {background-color: #F03C3C; border-radius: 40px 40px 0px 40px}label.btn.btn-info.fr.border.fa.fa-compress {border-radius: 25px 25px 0px 25px; margin: 1px; border: 1px solid #FFE0F6; class: asim11;}label.label.label-danger.border.nosel.fa.fa-close.fr {border: 1px solid #FFE0F6 !important; border-radius: 30px 30px 0px 30px!important; class: asim11;}label.label-primary {border-radius: 30px 30px 0px 30px; class: asim11;}label.label-warning {border-radius: 30px 30px 0px 30px; class: asim11;}label.btn.minix.btn-danger.pphide.fr.border.fa.fa-close.phide {border-radius: 40px 40px 0px 40px; margin: 1px; border: 1px solid #FFE0F6; class: asim11;}.fl.fa.fa-sign-in.b.fa.fa-send.fl.btn.btn-primary, .label.label-primary, .minix.badge.border, .ae.fa.label.fa-commenting-o.label-warning, .fa.fa-send.fl.btn.btn-primary, .fa.fa-sign-out.fl.btn.btn-primary {border: 1px solid #C4C0C0;}.brooms.minix.badge.border, .minix.badge.border, .corner.border.label.label-primary {background-color: #595757!important;border: 1px solid #C4C0C0;}.bwall.minix.badge.border, .busers.minix.badge.border {border-radius: 10px 10px 10px 10px!important;
-}label.tc {border-radius: 15px 15px 0px 0px;}.border.corner, .border.corner {border: 1px solid #FFE0F6;}.bgg.border.corner.w1c8tmld5910.active {border: 1px solid #C4C0C0}.label-primary, .btn-primary {border: 1px solid #C4C0C0;border-radius: 30px 30px 0px 30px;class: asim11;}</style>`).insertBefore('body');$(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعه الحائط · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
+.fl.label.loginstat.label-success, .fl.label.loginstat.label-info {color: #BA4E86;border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 5px 5px;margin-top: 1px;background-color: #FFFFFF!important;}
+button.btn.fr.btn-success.fa.fa-refresh {
+padding: 4px 5px;
+background-color: #782952!important;
+background-image: none;
+border: 2px solid transparent;
+margin-top: -3px;
+border-radius: 50px;
+}
+.btn.btn-primary.btn-sm {border-radius: 30px 30px 0px 30px; class: asim11;}
+div#tlogins .border.corner, div#tlogins .border.corner {border: 1px solid #FFE0F6;}
+body.bg .center-block.bg.dad div#tlogins {
+    height: auto!important;
+}
+div#tlogins {
+    border: 1px solid #FFE0F6;
+    border-radius: 20px 20px 0px 0px;
+}
+.hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border {border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 10px 10px;}
+
+body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png)}
+
+
+
+
+
+
+label.btn.minix.btn-danger.phide.fr.border.fa.fa-minus {border-radius: 40px 40px 40px 0px; margin: 1px; border: 1px solid #E04646; class: asim11;}
+label.btn.btn-info.fr.border.fa.fa-expand {border-radius: 25px 25px 0px 25px; margin: 1px; border: 1px solid #FFE0F6; class: asim11;}
+label.label.tc.border.btn.label-info.fl {border-radius: 40px 40px 0px 40px}
+label.label.tc.border.btn.label-danger.fl {background-color: #E04646; border-radius: 40px 40px 0px 40px}
+label.label.tc.border.btn.fl {border-radius: 40px 40px 0px 40px}
+label.label.tc.border.pmsg.btn.label-info.fl {border-radius: 40px 40px 0px 40px}
+label.label.tc.border.redit.btn.label-info.fl {border-radius: 40px 40px 0px 40px}
+label.label.tc.border.cp.btn.label-danger.fl {border-radius: 40px 40px 0px 40px}
+label.label.border.btn.label-danger.tc.fl {background-color: #F03C3C; border-radius: 40px 40px 0px 40px}
+label.btn.btn-info.fr.border.fa.fa-compress {border-radius: 25px 25px 0px 25px; margin: 1px; border: 1px solid #FFE0F6; class: asim11;}
+label.label.label-danger.border.nosel.fa.fa-close.fr {border: 1px solid #FFE0F6 !important; border-radius: 30px 30px 0px 30px!important; class: asim11;}
+label.label-primary {border-radius: 30px 30px 0px 30px; class: asim11;}
+label.label-warning {border-radius: 30px 30px 0px 30px; class: asim11;}
+label.btn.minix.btn-danger.pphide.fr.border.fa.fa-close.phide {border-radius: 40px 40px 0px 40px; margin: 1px; border: 1px solid #FFE0F6; class: asim11;}
+
+
+
+.fl.fa.fa-sign-in.b.fa.fa-send.fl.btn.btn-primary, .label.label-primary, .minix.badge.border, .ae.fa.label.fa-commenting-o.label-warning, .fa.fa-send.fl.btn.btn-primary, .fa.fa-sign-out.fl.btn.btn-primary {border: 1px solid #C4C0C0;}
+.brooms.minix.badge.border, .minix.badge.border, .corner.border.label.label-primary {
+    background-color: #595757!important;
+    border: 1px solid #C4C0C0;
+}
+.bwall.minix.badge.border, .busers.minix.badge.border {
+    background-color: #595757!important;
+    border: 1px solid #C4C0C0;
+}
+
+tn.btn-primary.dots.roomh.border.corner {border: 1px solid #C4C0C0;}
+.fl.fa.fa-sign-out.btn.btn-primary.dots.roomh.border.corner {border: 1px solid #C4C0C0;}
+
+.fl.nosel.label.pnhead {color: #BA4E86;}
+.u-msg.break.fl {color: #595757;}
+.s1.fa.fa-user.label.bagex.label-as-badge.label-successd {background-color: #FFE0F6!important;}
+.room.borderg.hand.nosel.fl, .border-radius {border: 1px solid #FFF0F9;}
+.hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border {border: 1px solid #FFE0F6;border-radius: 5px 5px 5px 5px;}
+.uzr.fl.corner.borderg.mm, .uzr.fl.corner.borderg.mm {border: 1px solid #FFE0F6;border-radius: 5px 5px 5px 5px;}
+.label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 1px solid #FFE0F6;border-radius: 5px 5px 5px 5px;}
+.ae {border: 1px solid #FFE0F6;}
+.btn-primary {border: 1px solid #FFE0F6;}
+.u-topic.ui-corner-all.dots {color: #961146;}
+.room.borderg.hand.nosel.fl img.fl.u-pic {
+    border-radius: 15px 15px 15px 15px;
+}
+.fr.minix.tago {color: #BA4E86;}
+textarea.fl.filw.corner.tbox {
+border: 1px solid #FFFFFA;
+    color: #595757;
+    
+}
+.fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner {border: 1px solid #C4C0C0;border-radius: 5px 5px 5px 5px;}
+.fl.fa.fa-sign-out.btn.btn-primary.dots.roomh.border.corner {border: 1px solid #C4C0C0;}
+.border.corner.light.fr.break {background-color: #FFF0FA;}
+.modal-header.label-primary, .modal-content {border-radius: 0px 0px 0px 0px}
+.lonline.light.break .hand.nosel.fl.uzr.border .fl .fl .fl span.corner.u-topic.dots {
+    border-radius: 10px 10px 10px 10px!important;
+}
+label.tc {border-radius: 15px 15px 0px 0px;}.border.corner, .border.corner {border: 1px solid #FFE0F6;}.bgg.border.corner.w1c8tmld5910.active {border: 1px solid #C4C0C0}.label-primary, .btn-primary {border: 1px solid #C4C0C0;border-radius: 30px 30px 0px 30px;class: asim11;}</style>`).insertBefore('body');$(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعه الحائط · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
 (document.getElementById("tbox").placeholder = "عمي عوف السطح ودردش ويانا");
