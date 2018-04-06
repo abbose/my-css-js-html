@@ -198,23 +198,5 @@ label.tc {border-radius: 15px 15px 0px 0px;}
 .bgg.border.corner.w1c8tmld5910.active {border: 1px solid #FFF0FA}
 .label-primary, .btn-primary {border: 1px solid #FFF0FA;border-radius: 30px 30px 0px 30px;}
 
-img.fitimg.fl.u-pic {
-    border-bottom: 2px solid #780444;
-    border-right: 2px solid #780444;
-    border-top: 2px solid #542741;
-    border-left: 2px solid #542741;
-    border-radius: 4px;
-    background-size: cover;
-    padding: 0;
-}
-img.fl.ustat {
-    float: right;
-    border-radius: 50px!important;
-    width: 10px !important;
-    height: 10px !important;
-    margin-top: 15px;
-}
-.fl.mini.u-co {
-    margin-top: -320px!important;
-}
+
 
