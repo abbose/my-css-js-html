@@ -106,9 +106,7 @@ span.s1.fa.fa-user.label.badgex.label-as-badge.label-success {
 font-family: 'jazeera',FontAwesome;
     
 }
-.s1.fa.fa-user.label.bagex.label-as-badge.label-successd {background-color: #FFE0F6!important;}
-.s1.fa.fa-user.label.badgex.label-as-badge.label-success {color: #BA4E86;}
-.fl.label.loginstat.label-success, .fl.label.loginstat.label-info {color: #BA4E86;border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 5px 5px;margin-top: 1px;background-color: #FFFFFF!important;}
+
 button.btn.fr.btn-success.fa.fa-refresh {
 padding: 4px 5px;
 background-color: #782952!important;
@@ -134,6 +132,10 @@ body, .nosel.fl.bg, .tablebox.footer.fl.light, .break.fr {background-image: url(
 
 
 
+
+.s1.fa.fa-user.label.bagex.label-as-badge.label-successd {background-color: #FFE0F6!important;}
+.s1.fa.fa-user.label.badgex.label-as-badge.label-success {color: #BA4E86;}
+.fl.label.loginstat.label-success, .fl.label.loginstat.label-info {color: #BA4E86;border: 1px solid #FFE0F6;border-radius: 5px 5px 5px 5px;margin-top: 1px;background-color: #FFFFFF!important;}
 
 label.btn.minix.btn-danger.phide.fr.border.fa.fa-minus {border-radius: 40px 40px 40px 0px; margin: 1px; border: 1px solid #E04646;}
 label.btn.btn-info.fr.border.fa.fa-expand {border-radius: 25px 25px 0px 25px; margin: 1px; border: 1px solid #FFE0F6; }
