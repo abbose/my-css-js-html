@@ -10,30 +10,13 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 $('<img src="sico/z1c7e1gv2n10.gif" style="width:100px;margin-top:-65px;" class="fr">').insertBefore('.loginstat');
 $('.tc span[class="fa fl"]').addClass('fa-check');
 nopm=true;
-
 $(`<style>
 @font-face{font-family:'jazeera';src: url('https://www.fontstatic.com/fonts/jazeera/jazeera.eot?#iefix');src: local('الجزيرة'), local('jazeera'),url('https://www.fontstatic.com/fonts/jazeera/jazeera.woff') format('woff');}
 @font-face{font-family:'jazeera-light';src: url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.eot?#iefix');src: local('الجزيرة خفيف'), local('jazeera-light'),url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.woff') format('woff');}
-.fr.borderg a {color: #BA4E86;}
-.fr.borderg {color: #BA4E86;}
-
-
-
-div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png); class: asim11;}
-#asim7 {margin-bottom: 3px; height: 26px; color: #595757; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important; font-family: 'jazeera',FontAwesome; font-size: 16px!important; padding: 2px 10px 2px 10px;}
-
-
-.asim11 {background-image: url(https://iqr30.com/sico/z1c83boo5b10.jpg);}
-
-
-.btn.btn-primary.btn-sm {
+.fr.borderg a {color: #BA4E86;}.fr.borderg {color: #BA4E86;}div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png); class: asim11;}
+#asim7 {margin-bottom: 3px; height: 26px; color: #595757; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important; font-family: 'jazeera',FontAwesome; font-size: 16px!important; padding: 2px 10px 2px 10px;}.asim11 {background-image: url(https://iqr30.com/sico/z1c83boo5b10.jpg);}.btn.btn-primary.btn-sm {
     background-color: #AB325E!important;
-}
-
-
-
-
-#asim33 {margin-top: 2px; margin-left: 2px; padding: 0px 2px 2px 7px; margin-right: 2px; border: 2px solid #FFE0F6;}
+}#asim33 {margin-top: 2px; margin-left: 2px; padding: 0px 2px 2px 7px; margin-right: 2px; border: 2px solid #FFE0F6;}
 .asim11 {background-color: #FFFFFF; border-radius: 10px 10px 10px 10px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;}
 #asim8 {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #D43B7D; height: 28px; color: #FFF569; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important;}
 #asim10 {border-top: 2px solid #f50784; border-bottom: 2px solid #f50784; margin-bottom: 2px; border-radius: 10px 10px 10px 10px;}
