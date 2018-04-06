@@ -10,6 +10,6 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 $('<img src="sico/z1c7e1gv2n10.gif" style="width:100px;margin-top:-65px;" class="fr">').insertBefore('.loginstat');
 $('.tc span[class="fa fl"]').addClass('fa-check');
 nopm=true;
-$(`<link rel="stylesheet" href="https://raw.githubusercontent.com/iqr30/my-css-js-html/master/fontstatic"><style></style>`).insertBefore('body');
+$(`<link rel="stylesheet" href="https://iqr30.github.io/my-css-js-html/fontstatic.css"><style></style>`).insertBefore('body');
                 $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعه الحائط · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
 (document.getElementById("tbox").placeholder = "عمي عوف السطح ودردش ويانا");
