@@ -11,13 +11,7 @@ $('<img src="sico/z1c7e1gv2n10.gif" style="width:100px;margin-top:-65px;" class=
 $('.tc span[class="fa fl"]').addClass('fa-check');
 nopm=true;
 
-$(`
-<link rel="stylesheet" href=""><style>
 
-
-
-
-</style>`).insertBefore('body');
 $(`
 $_SESSION['css_show_key'] = "Mr.Ajax"; 
 ?>
