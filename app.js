@@ -434,7 +434,7 @@ function ondata(cmd, data) {
             $('#d2,.footer,#d0').show(); fixSize();
             break;
           case "noname":
-            lstat('warning', 'هذا الإسم غير مسجل !');
+            lstat('warning', ‘روح سجل غير اسم هذا الاسم موجود !');
             break;
           case "badname":
             lstat('warning', 'يرجى إختيار أسم آخر');
