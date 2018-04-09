@@ -1,5 +1,5 @@
 $(` <center><div></div><center>
-<div style=" width: 100%; "  id="as" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >موسيقى</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
+<div style=" width: 100%; "  id="as"collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">موسيقى</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
 <marquee direction="right" width="99%" id="asim0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >  &nbsp; قوانين الشات ● · في حال ذكر وتبيين اسماء مواقع اخرى تعرضك لحذف العضوية والحظر يرجى من الزوار والمراقبين عدم ذكر اسماء مواقع اخرى ● · وشكرآ لكم &nbsp;</marquee></font>
 </p>شغل الموسيقى حتى ليفصل الشات</p>
 </p>بدون صوت</p><audio controls loop="" autoplay="">
