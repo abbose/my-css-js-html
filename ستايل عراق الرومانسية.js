@@ -36,7 +36,8 @@ border: 1px solid #FFF0FA
 #as {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; color: #FFFFFA; border-radius: 5px 5px 5px 5px;
     text-shadow: 2px 0px 8px rgba(105,1,85) , 0px 2px 10px #c930ac !important;
 border: 1px solid #FFE0F6;
-height: 22px;
+height: 24px;
+text-align: center;
 }
 .btn-asim {background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);}
 </style>
