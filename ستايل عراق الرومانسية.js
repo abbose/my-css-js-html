@@ -28,7 +28,7 @@ $(`
     <div class="modal-content"style="background-color: #FEF5FF;">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="asim-iqr30" id="myModalLabel"> قوانين الشات </h4>
+        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="asim-iqr30" id="iqr30.com"> قوانين الشات </h4>
       </div>
       <div style="padding: 0;" class="asim-iqr3">
 <div dir="rtl" style="text-align: right;padding: 0;margin-right: -20px;" trbidi="on">
@@ -37,10 +37,10 @@ $(`
         <div>
           <span class="asim-iqr30"> قانون ذكر المواقع </span>
           <br />
-          <span class="red asim-iqr30">
-          الملاحظات : 
+          <span class="asim-iqr3">
+            ممنوع اي شخص يذكر اسم موقع او شات او يروج لهلشي والي يسوي هيج تنسحب لايكاته وينظرب باند 
          </span> <span style="color: red;">
-          ممنوع اي شخص يذكر اسم موقع او شات او يروج لهلشي والي يسوي هيج تنسحب لايكاته وينظرب باند  </span>
+      </span>
         </div>
       </li>
        
@@ -48,9 +48,9 @@ $(`
         <div>
           <span class="asim-iqr30">دعاء لسارقين الزوار </span>
           <br />
-          <span class="asim-iqr30">الدعاء يكول : 
+          <span class="asim-iqr3">يارب يموت اعز شخص عندك بالدنيا اذا تبوك زوار 
                    </span> <span style="color: red;">
-يارب يموت اعز شخص عندك بالدنيا اذا تبوك زوار 
+
         </div>
       </li>
       
@@ -58,9 +58,9 @@ $(`
         <div>
           <span class="asim-iqr30"> قانون التجاوزات </span>
           <br />
-          <span class="asim-iqr30">الملاحظات :   
+          <span class="asim-iqr3"> ممنوع اي شخص يجاوز والي يجاوز اخذله سكرين للتجاوز مالته وانطيها للمراقب او الادإره هيه تتصرف  
 		  </span> <span style="color: red;">
-		 ممنوع اي شخص يجاوز والي يجاوز اخذله سكرين للتجاوز مالته وانطيها للمراقب او الادإره هيه تتصرف 
+		
 </span>
         </div>
       </li>
@@ -69,9 +69,9 @@ $(`
         <div>
           <span class="asim-iqr30">قانون الزحف </span>
           <br />
-          <span class="asim-iqr30">الملاحظات : 
+          <span class="asim-iqr3"> ممنوع اي شخص يضايق شخص ثاني بالعام او بالخاص او تنبيهات او جدار والي يسوي هيج ينطرد
 		  		  </span> <span style="color: red;">
-         ممنوع اي شخص يضايق شخص ثاني بالعام او بالخاص او تنبيهات او جدار والي يسوي هيج ينطرد</span>
+        </span>
         </div>
       </li>
       
@@ -79,9 +79,9 @@ $(`
         <div>
           <span class="asim-iqr30"> قانون الايحاءات</span>
           <br />
-          <span class="asim-iqr30">الملاحظات : 
+          <span class="asim-iqr3">ممنوع التحدث بكلام غير اخلاقي حتى ولو كان غير مباشر
 		  		  		  </span> <span style="color: red;">
-ممنوع التحدث بكلام غير اخلاقي حتى ولو كان غير مباشر
+
 		  </span>
         </div>
       </li>
@@ -89,18 +89,18 @@ $(`
         <div>
           <span class="asim-iqr30"> قانون السياسة والدين</span>
           <br />
-          <span class="asim-iqr30">الملاحظات : 
+          <span class="asim-iqr3">ممنوع التحدث بالسياسه والدين واليحجي يروح بالرجلين
 		  		  		  </span> <span style="color: red;">
-ممنوع التحدث بالسياسه والدين واليحجي يروح بالرجلين		  </span>
+		  </span>
         </div>
       </li>
 	         <li>
         <div>
           <span class="asim-iqr30"> قانون الجدار</span>
           <br />
-          <span class="asim-iqr30">الملاحظات : 
+          <span class="asim-iqr3">تسولف بالجدار عادي تشكر شخص ع منشوره عادي بس مال ادز سمايلات وتتعارك ممنوع اطير لايكاتك
 		  		  		  </span> <span style="color: red;">
-تسولف بالجدار عادي تشكر شخص ع منشوره عادي بس مال ادز سمايلات وتتعارك ممنوع اطير لايكاتك
+
 </span>
         </div>
       </li>
@@ -110,7 +110,7 @@ $(`
   
 </div>      </div>
       <div class="modal-footer">
-        <button style="margin-right: 107px;" type="button" class="btn btn-default" data-dismiss="modal">إغــلاق نـآفذة  القوانين</button>
+        <button style="margin-right: 107px;" type="button" class="btn btn-sm" data-dismiss="modal">إغــلاق نـآفذة  القوانين</button>
       </div>
     </div>
   </div>
