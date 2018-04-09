@@ -11,15 +11,6 @@ $('<img src="sico/z1c7e1gv2n10.gif" style="width:100px;margin-top:-65px;" class=
 $('.tc span[class="fa fl"]').addClass('fa-check');
 nopm=true;
 
-$(`<link rel="stylesheet" href="https://iqr30.github.io/my-css-js-html/\u0634\u0627\u062A \u0639\u0631\u0627\u0642 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u0633\u064A\u0629 \u0644\u0644\u062C\u0648\u0627\u0644.css"><style></style>`).insertBefore('body');
-                
-
-$(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
-
-(document.getElementById("tbox").placeholder = "عمي عوف السطح ودردش ويانا");
-
-
-
 $(`
 
 
@@ -30,7 +21,7 @@ $(`
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
         <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="asim-iqr30" id="iqr30.com"> قوانين الشات </h4>
       </div>
-      <div style="padding: 0;" class="asim-iqr3">
+      <div style="padding: 0;" class="asim-iqr32">
 <div dir="rtl" style="text-align: right;padding: 0;margin-right: -20px;" trbidi="on">
 <ul class="main">
       <li>
