@@ -17,3 +17,103 @@ $(`<link rel="stylesheet" href="https://iqr30.github.io/my-css-js-html/\u0634\u0
 $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
 
 (document.getElementById("tbox").placeholder = "عمي عوف السطح ودردش ويانا");
+
+
+$(`
+
+
+<div  class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div style="max-width: 390px;"class="modal-dialog" role="document">
+    <div class="modal-content"style="background-color: #f5f3ed;">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="modal-title" id="myModalLabel"> قوانين الشات </h4>
+      </div>
+      <div style="padding: 0;" class="modal-body">
+<div dir="rtl" style="text-align: right;padding: 0;margin-right: -20px;" trbidi="on">
+<ul class="main">
+      <li>
+        <div>
+          <span class="event-time"> قانون ذكر المواقع </span>
+          <br />
+          <span class="red asim-iqr30">
+          الملاحظات : 
+         </span> <span style="color: red;">
+          ممنوع اي شخص يذكر اسم موقع او شات او يروج لهلشي والي يسوي هيج تنسحب لايكاته وينظرب باند  </span>
+        </div>
+      </li>
+       
+       <li>
+        <div>
+          <span class="event-time">دعاء لسارقين الزوار </span>
+          <br />
+          <span class="asim-iqr30">الدعاء يكول : 
+                   </span> <span style="color: red;">
+يارب يموت اعز شخص عندك بالدنيا اذا تبوك زوار 
+        </div>
+      </li>
+      
+       <li>
+        <div>
+          <span class="event-time"> قانون التجاوزات </span>
+          <br />
+          <span class="asim-iqr30">الملاحظات :   
+		  </span> <span style="color: red;">
+		 ممنوع اي شخص يجاوز والي يجاوز طك صوره للتجاوز مالته وانطيها للمراقب او الاداره هيه تتصرف 
+</span>
+        </div>
+      </li>
+      
+       <li>
+        <div>
+          <span class="event-time">قانون الزحف </span>
+          <br />
+          <span class="asim-iqr30">الملاحظات : 
+		  		  </span> <span style="color: red;">
+         ممنوع اي شخص يضايق شخص ثاني بالعام او بالخاص او تنبيهات او جدار والي يسوي هيج ينطرد</span>
+        </div>
+      </li>
+      
+       <li>
+        <div>
+          <span class="event-time"> قانون الايحاءات</span>
+          <br />
+          <span class="asim-iqr30">الملاحظات : 
+		  		  		  </span> <span style="color: red;">
+ممنوع التحدث بكلام غير اخلاقي حتى ولو كان غير مباشر
+		  </span>
+        </div>
+      </li>
+	         <li>
+        <div>
+          <span class="event-time"> قانون السياسة والدين</span>
+          <br />
+          <span class="asim-iqr30">الملاحظات : 
+		  		  		  </span> <span style="color: red;">
+ممنوع التحدث بالسياسه والدين واليحجي يروح بالرجلين		  </span>
+        </div>
+      </li>
+	         <li>
+        <div>
+          <span class="event-time"> قانون الجدار</span>
+          <br />
+          <span class="asim-iqr30">الملاحظات : 
+		  		  		  </span> <span style="color: red;">
+تسولف بالجدار عادي تشكر شخص ع منشوره عادي بس مال ادز سمايلات وتتعارك ممنوع اطير لايكاتك
+</span>
+        </div>
+      </li>
+
+    </div>  
+    
+  
+</div>      </div>
+      <div class="modal-footer">
+        <button style="margin-right: 107px;" type="button" class="btn btn-default" data-dismiss="modal">إغــلاق نـآفذة  القوانين</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div 
+style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: black;" type="button"  data-toggle="modal" data-target="#myModal" > قوانين الشات</div>`).insertBefore('label.fl.nosel.label.pnhead');
+$(`<style> *, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; } ul.main { list-style: none; } h3 {padding: 0; margin: 0;} .date { width: 17%; padding: 15% 1% 0 0 ; float: left; } .date h3 { font-size: 1.5em; } .date p { font-size: .8em; } .events { float: left; width: 80%; border-left: 1px solid #ccc; } .events-detail { max-width: 550px; } .events-detail li{ padding: 10px; border-bottom: 1px dashed #ccc; line-height: 22px; transition: ease .4s all; } .events-detail li:hover { background: #e9e9e9; } .event-time { font-weight: 900; } .events-detail li div { text-decoration: none; color: #444; width: 100%; height: 10%; display: block; } .asim-iqr30 { font-size: .8em; color: tomato; margin-left: 70px; } @media all and (max-width: 641px) { .date { width: 100%; border-bottom: 1px solid #ccc; margin-bottom: 10px; } .events { border:none; width: 100%; margin-top: 0; } .events-detail { padding: 0; } li.date p { margin:0; } } </style> <ul class="main"> <li class= "events"> <ul class="events-detail"> <li> <div> <span class="event-time">2:00pm - </span> <span class="event-name">اسم المفعالية</span> <br /> <span class="asim-iqr30">الملاحظات</span> </div> </li> <li> <div> <span class="event-time">2:00pm - </span> <span class="event-name">اسم الفعالية</span> <br /> <span class="asim-iqr30">ملاحظات</span> </div> </li> <li> <div> <span class="event-time">2:00pm - </span> <span class="event-name">اسم الفعالية</span> <br /> <span class="asim-iqr30">ملاحظات</span> </div> </li> <li> <div> <span class="event-time">2:00pm - </span> <span class="event-name">اسم الفعالية</span> <br /> <span class="asim-iqr30">ملاحظات</span> </div> </li> <li> <div> <span class="event-time">2:00pm - </span> <span class="event-name">اسم الفعالية</span> <br /> <span class="asim-iqr30">ملاحظات</span> </div> </li> </ul> </li> </ul> `).appendTo('div[dir="rtl"]');
