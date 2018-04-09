@@ -34,6 +34,10 @@ border: 1px solid #FFF0FA
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 
 }
+#as {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; color: #FFFFFA; border-radius: 5px 5px 5px 5px;
+    text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
+border: 1px solid #FFE0F6;
+}
 .btn-asim {background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);}
 </style>
 `).insertBefore('head title');
