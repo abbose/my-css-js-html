@@ -25,17 +25,17 @@ $(`
 
 <div  class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div style="max-width: 390px;"class="modal-dialog" role="document">
-    <div class="modal-content"style="background-color: #f5f3ed;">
+    <div class="modal-content"style="background-color: #FEF5FF;">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="modal-title" id="myModalLabel"> قوانين الشات </h4>
+        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="asim-iqr30" id="myModalLabel"> قوانين الشات </h4>
       </div>
-      <div style="padding: 0;" class="modal-body">
+      <div style="padding: 0;" class="asim-iqr3">
 <div dir="rtl" style="text-align: right;padding: 0;margin-right: -20px;" trbidi="on">
 <ul class="main">
       <li>
         <div>
-          <span class="event-time"> قانون ذكر المواقع </span>
+          <span class="asim-iqr30"> قانون ذكر المواقع </span>
           <br />
           <span class="red asim-iqr30">
           الملاحظات : 
@@ -46,7 +46,7 @@ $(`
        
        <li>
         <div>
-          <span class="event-time">دعاء لسارقين الزوار </span>
+          <span class="asim-iqr30">دعاء لسارقين الزوار </span>
           <br />
           <span class="asim-iqr30">الدعاء يكول : 
                    </span> <span style="color: red;">
@@ -56,18 +56,18 @@ $(`
       
        <li>
         <div>
-          <span class="event-time"> قانون التجاوزات </span>
+          <span class="asim-iqr30"> قانون التجاوزات </span>
           <br />
           <span class="asim-iqr30">الملاحظات :   
 		  </span> <span style="color: red;">
-		 ممنوع اي شخص يجاوز والي يجاوز طك صوره للتجاوز مالته وانطيها للمراقب او الاداره هيه تتصرف 
+		 ممنوع اي شخص يجاوز والي يجاوز اخذله سكرين للتجاوز مالته وانطيها للمراقب او الادإره هيه تتصرف 
 </span>
         </div>
       </li>
       
        <li>
         <div>
-          <span class="event-time">قانون الزحف </span>
+          <span class="asim-iqr30">قانون الزحف </span>
           <br />
           <span class="asim-iqr30">الملاحظات : 
 		  		  </span> <span style="color: red;">
@@ -77,7 +77,7 @@ $(`
       
        <li>
         <div>
-          <span class="event-time"> قانون الايحاءات</span>
+          <span class="asim-iqr30"> قانون الايحاءات</span>
           <br />
           <span class="asim-iqr30">الملاحظات : 
 		  		  		  </span> <span style="color: red;">
@@ -87,7 +87,7 @@ $(`
       </li>
 	         <li>
         <div>
-          <span class="event-time"> قانون السياسة والدين</span>
+          <span class="asim-iqr30"> قانون السياسة والدين</span>
           <br />
           <span class="asim-iqr30">الملاحظات : 
 		  		  		  </span> <span style="color: red;">
@@ -96,7 +96,7 @@ $(`
       </li>
 	         <li>
         <div>
-          <span class="event-time"> قانون الجدار</span>
+          <span class="asim-iqr30"> قانون الجدار</span>
           <br />
           <span class="asim-iqr30">الملاحظات : 
 		  		  		  </span> <span style="color: red;">
