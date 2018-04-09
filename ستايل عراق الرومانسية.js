@@ -1,5 +1,5 @@
 $(` <center><div></div><center>
-<div style=" width: 100%; "  id="as" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">موسيقى</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
+<div style=" width: 100%; "  id="as" class="btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">موسيقى</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
 <marquee direction="right" width="99%" id="asim0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >  &nbsp; قوانين الشات ● · في حال ذكر وتبيين اسماء مواقع اخرى تعرضك لحذف العضوية والحظر يرجى من الزوار والمراقبين عدم ذكر اسماء مواقع اخرى ● · وشكرآ لكم &nbsp;</marquee></font>
 </p>شغل الموسيقى حتى ليفصل الشات</p>
 </p>بدون صوت</p><audio controls loop="" autoplay="">
@@ -23,7 +23,7 @@ session_start();
 $_SESSION['css_show_key'] = "Mr.Ajax"; 
 ?>
 <link rel="stylesheet" type="text/css" href=""><style>
-#as {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #8A054E; height: 25px; color: #FFFFFA; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important;
+#as {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #8A054E; height: 33px; color: #FFFFFA; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important;
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 
 }
@@ -31,6 +31,7 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 
 }
+
 </style>
 `).insertBefore('head title');
 $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
