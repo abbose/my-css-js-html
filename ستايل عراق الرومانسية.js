@@ -32,6 +32,10 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 
 }
+#ass {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #E80883; height: 30px; color: #FFFFFA; border-radius: 40px 40px 0px 40px!important; padding-bottom: 2px!important;
+    text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
+border: 1px solid #FFF0FA
+}
 
 </style>
 `).insertBefore('head title');
