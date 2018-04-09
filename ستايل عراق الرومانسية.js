@@ -55,7 +55,7 @@ $(`
     <div class="modal-content"style="background-color: #FEF5FF;">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="fl mini  fa fa-graduation-cap
+        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="fl mini  fa fa-heartbeat
 btn btn-info" id="iqr30-com"> قوانين الشات </h4>
       </div>
       <div style="padding: 0;" class="asim-iqr32">
