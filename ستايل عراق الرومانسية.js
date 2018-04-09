@@ -1,6 +1,6 @@
 $(` <center><div><audio controls loop="" autoplay="">
 <source src="https://iraqiachats.com/asim.mp3"></div><center>
-`).insertBefore('div#d2bc');
+`).insertBefore('label.fl.nosel.label.pnhead');
 $(`<img src ="sico/z1c7j29n8e10.gif" etclass="fr" style="width:100%;margin-top: 1px;">
 <center><div><marquee direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >  &nbsp; اتبع قول نبينا ﷺ اتق الله حيثما كنت  ●· لا تكسبوا رضا الناس اكسبوا رضا الله ● · لا تدع الدردشة تلهيك عن صلاتك ولا تستخدم الشات في ما لا يرضي الله &nbsp;</marquee></font></div><center></div>
 <div id="asim10"><center><a id="asim33" href="mobile.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">التطبيق</a><a id="asim33" href="sub.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">اشتراكات</a>
