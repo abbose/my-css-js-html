@@ -12,7 +12,7 @@ $('<img src="sico/z1c7e1gv2n10.gif" style="width:100px;margin-top:-65px;" class=
 $('.tc span[class="fa fl"]').addClass('fa-check');
  nopm=true;
  
-$(`<link rel="stylesheet" type="text/css" href="https://iqr30.github.io/my-css-js-html/\u0634\u0627\u062A\u0639\u0631\u0627\u0642\u0627\u0644\u0631\u0648\u0645\u0627\u0646\u0633\u064A\u0629\u0644\u0644\u062C\u0648\u0627\u0644.css"><?php
+$(`<link rel="stylesheet" type="text/css" href="https://iqr30.github.io/my-css-js-html/\u0634\u0627\u062A \u0639\u0631\u0627\u0642 \u0627\u0644\u0631\u0648\u0645\u0627\u0646\u0633\u064A\u0629 \u0644\u0644\u062C\u0648\u0627\u0644.css"><?php
 session_start(); 
 $_SESSION['css_show_key'] = "Mr.Ajax"; 
 ?>
