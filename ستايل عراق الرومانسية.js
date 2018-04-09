@@ -27,6 +27,7 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 
 }
+
 #asim0 {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #780444; height: 25px; color: #FFFFFA; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important;
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 
@@ -136,4 +137,4 @@ $(`
   </div>
 </div>
 <div 
-style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: black;"  id="as" class="btn btn-primary btn-asim" type="button"  data-toggle="modal" data-target="#myModal" > قوانين الشات</div>`).insertBefore('label.fl.nosel.label.pnhead');
+style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: black;"  id="ass" class="btn btn-primary btn-asim" type="button"  data-toggle="modal" data-target="#myModal" > قوانين الشات</div>`).insertBefore('label.fl.nosel.label.pnhead');
