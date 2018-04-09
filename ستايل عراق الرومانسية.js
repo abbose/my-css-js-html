@@ -1,5 +1,5 @@
 $(` <center><div></div><center>
-<div style=" width: 100%; "  id="as" margin: 2px;" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
+<div style=" width: 100%; "  id="as" margin: 2px;" class="fl mini fa fa-music btn btn-info" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
 <marquee direction="right" width="99%" id="asim0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >  &nbsp; قوانين الشات ● · في حال ذكر وتبيين اسماء مواقع اخرى تعرضك لحذف العضوية والحظر يرجى من الزوار والمراقبين عدم ذكر اسماء مواقع اخرى ● · وشكرآ لكم &nbsp;</marquee></font>
 </p>شغل الموسيقى حتى ليفصل الشات</p>
 </p>بدون صوت</p><audio controls loop="" autoplay="">
@@ -26,7 +26,7 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
 
 
 
-#ass {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #E80883; height: 25px; color: #FFFFFA; border-radius: 40px 40px 0px 40px!important; padding-bottom: 2px!important;
+#ass {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #E80883; height: 22px; color: #FFFFFA; border-radius: 40px 40px 0px 40px!important; padding-bottom: 2px!important;
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 border: 1px solid #FFF0FA
 }
