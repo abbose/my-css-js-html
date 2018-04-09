@@ -16,7 +16,9 @@ $(`<link rel="stylesheet" type="text/css" href=""><?php
 session_start(); 
 $_SESSION['css_show_key'] = "Mr.Ajax"; 
 ?>
-<link rel="stylesheet" type="text/css" href="https://iqr30.github.io/my-css-js-html/شات عراق الرومانسية للجوال.css">
+<link rel="stylesheet" type="text/css" href="https://iqr30.github.io/my-css-js-html/شات عراق الرومانسية للجوال.css"><style>
+.btn-primary {border: 1px solid #FFF0FA;border-radius: 40px 40px 0px 40px;}
+</style>
 `).insertBefore('head title');
 $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break');
 $("[data-target=#wall]").attr('title','الشات شاتكم والكاع كاع الله')
