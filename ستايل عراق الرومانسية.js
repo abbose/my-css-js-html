@@ -48,7 +48,7 @@ $(`
     <div class="modal-content"style="background-color: #FEF5FF;">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="asim-iqr33" id="iqr30-com"> قوانين الشات </h4>
+        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="asim-iqr33" id="iqr30-com" class="btn btn-primary btn-asim"> قوانين الشات </h4>
       </div>
       <div style="padding: 0;" class="asim-iqr32">
 <div dir="rtl" style="text-align: right;padding: 0;margin-right: -20px;" trbidi="on">
