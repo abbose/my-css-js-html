@@ -36,7 +36,7 @@ border: 1px solid #FFF0FA
 #as {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; color: #FFFFFA; border-radius: 5px 5px 5px 5px;
     text-shadow: 2px 0px 8px rgba(105,1,85) , 0px 2px 10px #c930ac !important;
 border: 1px solid #FFE0F6;
-height: 24px;
+height: 28px;
 text-align: center;
 }
 .btn-asim {background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);}
@@ -145,4 +145,4 @@ btn btn-info" id="iqr30-com"> قوانين الشات </h4>
   </div>
 </div>
 <div 
-style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: #c23636;"  id="ass" class="fl mini fa fa-heartbeat btn btn-danger" type="button"  data-toggle="modal" data-target="#myModal" > قوانين الشات</div>`).insertBefore('label.fl.nosel.label.pnhead');
+style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: #c23636;"  id="ass" class="fl mini fa fa-heartbeat btn btn-danger" type="button"  data-toggle="modal" data-target="#myModal" >&nbsp;قوانين الشات&nbsp;</div>`).insertBefore('label.fl.nosel.label.pnhead');
