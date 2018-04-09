@@ -1,5 +1,5 @@
 $(` <center><div></div><center>
-<div style=" width: 100%; "  id="as" margin: 2px;" class="fl mini fa fa-music btn btn-info" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
+<div style=" width: 100%; "  id="as" margin: 2px;" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
 </p>شغل الموسيقى حتى ليفصل الشات</p>
 </p>بدون صوت</p><audio controls loop="" autoplay="">
 <source src="https://iraqiachats.com/asim.mp3">
