@@ -153,9 +153,11 @@ label.label.label-danger.border.nosel.fa.fa-close.fr {border: 1px solid #FFE0F6 
 label.label-primary {border-radius: 30px 30px 0px 30px;}
 label.label-warning {border-radius: 30px 30px 0px 30px;}
 label.btn.minix.btn-danger.pphide.fr.border.fa.fa-close.phide {border-radius: 40px 40px 0px 40px; margin: 1px; border: 1px solid #FFE0F6;}
+.btn-primary {border: 1px solid #FFF0FA;border-radius: 40px 40px 0px 40px;}
 
 
-.fl.fa.fa-sign-in.b.fa.fa-send.fl.btn.btn-primary, .label.label-primary, .minix.badge.border, .ae.fa.label.fa-commenting-o.label-warning, .fa.fa-send.fl.btn.btn-primary, .fa.fa-sign-out.fl.btn.btn-primary {border: 1px solid #FFF0FA;}
+.ae.fa.chats.label.fa-comment.label-warning, .fa.fa-send.fl.btn.btn-primary, .fa.fa-sign-out.fl.btn.btn-primary {border: 1px solid #FFF0FA;border-radius: 40px 40px 0px 40px;}
+.fl.fa.fa-sign-in.b.fa.fa-send.fl.btn.btn-primary, .label.label-primary, .minix.badge.border, .ae.fa.label.fa-commenting-o.label-warning {border: 1px solid #FFF0FA;}
 .brooms.minix.badge.border, .minix.badge.border, .corner.border.label.label-primary {
     background-color: #780444!important;
     border: 1px solid #FFF0FA;
@@ -178,7 +180,7 @@ tn.btn-primary.dots.roomh.border.corner {border: 1px solid #FFF0FA;}
 .ae {border: 1px solid #FFE0F6;}
 
 
-.btn-primary {border: 1px solid #FFF0FA;border-radius: 40px 40px 0px 40px;}
+
 .u-topic.ui-corner-all.dots {color: #961146;}
 .room.borderg.hand.nosel.fl img.fl.u-pic {
     border-radius: 15px 15px 15px 15px;
