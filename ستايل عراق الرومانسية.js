@@ -28,7 +28,7 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
 
 }
 
-#asim0 {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #780444; height: 25px; color: #FFFFFA; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important;
+#asim0 {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #DB077C; height: 25px; color: #FFFFFA; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important;
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 
 }
