@@ -48,7 +48,7 @@ ul.nav.nav-tabs.fl li a:hover {background-color: #FF3333;color: white;}
 ul.nav.nav-tabs.fl li {width: 33.3%;border-top: 2px solid #EB047C;border-radius: 5px 5px 0px 0px;background-color: #FDF0F8;border-bottom: 3px solid #f50784;}
 fa.fa-user {border-radius: 10px 10px 10px 10px;}
 ul.nav.nav-tabs.fl li a {font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 4px!important;text-align: center!important;border-radius: 5px 5px 0px 0px;width: 100%;color: #bd4b87;}
-.well {font-family: 'jazeera',FontAwesome;font-size: 16px!important;padding: 3px!important;text-align: center!important;width: 100%;color: #C4475C;white-space: nowrap;}
+.well {font-family: 'jazeera',FontAwesome;font-size: 16px!important;padding: 3px!important;text-align: center!important;width: 100%;color: #C4475C;white-space: nowrap;border-radius: 15px 15px 15px 15px;}
 a.label.label-primary.fl {
     height: 40px;
     background-color: #ba3c66!important;
@@ -62,8 +62,18 @@ a.label.label-primary.fl img.fl {
 }
 div#l3 button, div#l1 button {background-color: #cc2965!important; border: 1px solid #ba3c66;  font-family: 'jazeera',FontAwesome; border: 1px solid #FFE0F6; border-radius: 30px 30px 30px 30px;}
 div#l2 button {background-color: #cc2965!important; border: 1px solid #ba3c66;  font-family: 'jazeera',FontAwesome; border: 1px solid #FFE0F6;border-radius: 30px 30px 30px 30px;}
-#collapseExample {font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 3px!important;text-align: center!important;width: 100%;background-image: url(https://iqr30.com/sico/z1c77cd09a10.gif);
-border-radius: 0px 0px 10px 10px;}
+#collapseExample {font-family: 'jazeera',FontAwesome;font-size: 11px!important;padding: 2px!important;text-align: center!important;width: 100%;background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);
+border-radius: 10px 10px 10px 10px;
+
+    border: 1px solid #FFE0F6;
+    border-radius: 10px 10px 10px 10pxpx;
+outline: 0;
+    border-color: #FFE0F6;
+    outline: 0;
+    -webkit-box-shadow: inset 0 2px 2px rgba(0,0,0,.075), 0 0 8px rgba(214,90,94);
+    box-shadow: inset 0 2px 2px rgba(0,0,0,.075), 0 0 8px rgba(214,90,94);border: 1px solid #FFE0F6;
+
+}
 .btn-sm, .btn-sm {background-image: url(https://iqr30.com/sico/z1c77cd09a10.gif);}
 
 .border.corner.light.fr.break {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png);}
@@ -240,3 +250,4 @@ border-radius: 30px 30px 30px 30px;
     text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
 
 }
+.btn.btn-primary.btn-asim {background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);}
