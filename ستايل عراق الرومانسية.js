@@ -40,100 +40,3 @@ $("[data-target=#wall]").attr('title','لتنشرون اغاني حرام 🖖')
 
 
 
-$(`
-
-
-<div  class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div style="max-width: 390px;"class="modal-dialog" role="document">
-    <div class="modal-content"style="background-color: #FEF5FF;">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="asim-iqr33" id="iqr30-com" class="btn btn-primary btn-asim"> قوانين الشات </h4>
-      </div>
-      <div style="padding: 0;" class="asim-iqr32">
-<div dir="rtl" style="text-align: right;padding: 0;margin-right: -20px;" trbidi="on">
-<ul class="main">
-      <li>
-        <div>
-          <span class="asim-iqr30"> قانون ذكر المواقع </span>
-          <br />
-          <span class="asim-iqr3">
-            ممنوع اي شخص يذكر اسم موقع او شات او يروج لهالشي والي يسوي هيج تنسحب لايكاته وينظرب باند 
-         </span> <span style="color: red;">
-      </span>
-        </div>
-      </li>
-       
-       <li>
-        <div>
-          <span class="asim-iqr30">دعاء لسارقين الزوار </span>
-          <br />
-          <span class="asim-iqr3">يارب يموت اعز شخص عندك بالدنيا اذا تبوك زوار من يمنا من غير مكان تبوك وجيبلنا عادي 
-                   </span> <span style="color: red;">
-
-        </div>
-      </li>
-      
-       <li>
-        <div>
-          <span class="asim-iqr30"> قانون التجاوزات </span>
-          <br />
-          <span class="asim-iqr3"> ممنوع اي شخص يجاوز والي يجاوز اخذله سكرين للتجاوز مالته وانطيها للمراقب او الادإره هيه تتصرف  
-		  </span> <span style="color: red;">
-		
-</span>
-        </div>
-      </li>
-      
-       <li>
-        <div>
-          <span class="asim-iqr30">قانون الزحف </span>
-          <br />
-          <span class="asim-iqr3"> ممنوع اي شخص يضايق شخص ثاني بالعام او بالخاص او تنبيهات او جدار والي يسوي هيج ينطرد
-		  		  </span> <span style="color: red;">
-        </span>
-        </div>
-      </li>
-      
-       <li>
-        <div>
-          <span class="asim-iqr30"> قانون الايحاءات</span>
-          <br />
-          <span class="asim-iqr3">ممنوع التحدث بكلام غير اخلاقي حتى ولو كان غير مباشر
-		  		  		  </span> <span style="color: red;">
-
-		  </span>
-        </div>
-      </li>
-	         <li>
-        <div>
-          <span class="asim-iqr30"> قانون السياسة والدين</span>
-          <br />
-          <span class="asim-iqr3">ممنوع التحدث بالسياسه والدين واليحجي يروح بالرجلين
-		  		  		  </span> <span style="color: red;">
-		  </span>
-        </div>
-      </li>
-	         <li>
-        <div>
-          <span class="asim-iqr30"> قانون الجدار</span>
-          <br />
-          <span class="asim-iqr3">تسولف بالجدار عادي تشكر شخص ع منشوره عادي بس مال ادز سمايلات وتتعارك ممنوع اطير لايكاتك
-		  		  		  </span> <span style="color: red;">
-
-</span>
-        </div>
-      </li>
-
-    </div>  
-    
-  
-</div>      </div>
-      <div class="modal-footer">
-        <button style="margin-right: 107px;" type="button" class="btn btn-danger" data-dismiss="modal">إغــلاق نـآفذة  القوانين</button>
-      </div>
-    </div>
-  </div>
-</div>
-<div 
-style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: black;" type="button"  data-toggle="modal" data-target="#myModal" > قوانين الشات</div>`).insertBefore('label.fl.nosel.label.pnhead');
