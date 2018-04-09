@@ -8,7 +8,7 @@
 btn btn-info"> القوانين</a>
 
 `).insertBefore('.nav-tabs'),$('.label-primary.mini.fl').css('border-radius','15px 15px 0px 0px'),$('.grow.break.tab-pane.fade.active.in').css({'background-color':'#F7F7F7'}),$('.border.corner.light.fr.break').css({'background-color':'#F7F7F7'}),$('.nav-tabs').addClass('fl').css('width','100%'),$(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
-<link rel="stylesheet" type="text/css" href="skr.css">
+<link rel="stylesheet" type="text/css" href="https://iqr30.github.io/my-css-js-html/skr.css">
 
 <style>
 .fl.mini.u-co {
