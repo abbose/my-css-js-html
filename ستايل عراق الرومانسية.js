@@ -1,5 +1,11 @@
-$(` <center><div><audio controls loop="" autoplay="">
-<source src="https://iraqiachats.com/asim.mp3"></div><center>
+$(` <center><div></div><center>
+<div style=" width: 100%; "  id="as" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">موسيقى</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
+<marquee direction="right" width="99%" id="asim0" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >  &nbsp; قوانين الشات ● · في حال ذكر وتبيين اسماء مواقع اخرى تعرضك لحذف العضوية والحظر يرجى من الزوار والمراقبين عدم ذكر اسماء مواقع اخرى ● · وشكرآ لكم &nbsp;</marquee></font>
+</p>شغل الموسيقى حتى ليفصل الشات</p>
+</p>بدون صوت</p><audio controls loop="" autoplay="">
+<source src="https://iraqiachats.com/asim.mp3">
+</audio>
+</div><center>
 `).insertBefore('div#d2bc');
 $(`<img src ="sico/z1c7j29n8e10.gif" etclass="fr" style="width:100%;margin-top: 1px;">
 <center><div><marquee direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >  &nbsp; اتبع قول نبينا ﷺ اتق الله حيثما كنت  ●· لا تكسبوا رضا الناس اكسبوا رضا الله ● · لا تدع الدردشة تلهيك عن صلاتك ولا تستخدم الشات في ما لا يرضي الله &nbsp;</marquee></font></div><center></div>
