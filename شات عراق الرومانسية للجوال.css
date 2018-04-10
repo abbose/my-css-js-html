@@ -79,19 +79,6 @@ outline: 0;
 .border.corner.light.fr.break {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png);}
 
 .asim12 {background-image: url(https://iqr30.com/sico/z1c75j5o5l10.png); border-radius: 10px 10px 10px 10px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;}
-label.label.label-primary.mini.fl {
-    width: 35%!important;
-    height: 27.5px;
-    float: right;
-    margin: left;
-    color: #BA4E86;
-    background-color: #FFFFFF!important;
-    font-size: 12px!important;
-    border-radius: 5px 5px 5px 5px!important;
-    border: 1px solid #FFE0F6;
-    font-family: 'jazeera-light',FontAwesome;
-    margin-top: 1px;
-}
 label.fl.label.loginstat.label-success {
     border-radius: 5px 5px 5px 5px!important;
     font-family: 'jazeera',FontAwesome;
@@ -251,3 +238,25 @@ border-radius: 30px 30px 30px 30px;
 
 }
 .btn-asim {background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);}
+
+label.label.label-primary.mini.fl {
+    width: 20%!important;
+    height: 27.5px;
+    float: right;
+    margin: left;
+    color: #BA4E86;
+    background-color: #FFFFFF!important;
+    font-size: 12px!important;
+    border-radius: 5px 5px 5px 5px!important;
+    border: 1px solid #FFE0F6;
+    font-family: 'jazeera-light',FontAwesome;
+    margin-top: 1px;
+}
+
+.s1.fa.fa-wifi.label.badgex.label-as-badge.label-success {color: #BA4E86;}
+s1.fa.fa-wifi.label.badgex.label-as-badge.label-success {
+    padding: 1px 1px 1px 1px;
+    background-color: #FFFFFF;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: -8px;
+}
