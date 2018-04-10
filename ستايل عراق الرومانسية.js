@@ -1,7 +1,4 @@
-$(` <center><div><audio controls loop="" autoplay="">
-<source src="https://iraqiachats.com/asim.mp3">
-</audio></div><center>
-</div><center>`).insertBefore('a.label.label-primary.fr'),
+
 
 
 $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
