@@ -1,11 +1,8 @@
-$(` <center><div></div><center>
-<div style=" width: 100%; "  id="as" margin: 2px;" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
-</p>شغل الموسيقى حتى ليفصل الشات</p>
-<audio controls loop="" autoplay="">
+$(` <center><div><audio controls loop="" autoplay="">
 <source src="https://iraqiachats.com/asim.mp3">
-</audio>
-</div><center>
-`).insertBefore('div.nosel.label-primary.fl.bgg'),$
+</audio></div><center>
+</div><center>`).insertBefore('a.label.label-primary.fr'),
+
 
 $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
       <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;pic/1cak7fqj310.png.jpg&quot;);" class="fl fitimg hand u-pic    ">
