@@ -67,6 +67,7 @@ label.label.label-primary.mini.fl {
     border-radius: 5px 5px 5px 5px;
     margin-left: -8px;
 }
+ul.nav.nav-tabs.fl li a {font-family: 'jazeera',FontAwesome;font-size: 15px!important;padding: 4px!important;}
 .btn-sm, .btn-sm {background-image: url(https://iqr30.com/sico/z1c77cd09a10.gif);}
 .btn-asim {background-image: url(https://iqr30.com/sico/z1c77cfdeg10.gif);}
 </style>
@@ -172,3 +173,4 @@ $(".fl.ustat").css("width", "5px")
 
 
 $(".label.label-primary.mini.fl").html(`<span class="s1 fa fa-google-wallet label badgex   label-as-badge label-success"></span>ONline`);
+$(".fa.fa-user-plus").html(`تسجيل`);
