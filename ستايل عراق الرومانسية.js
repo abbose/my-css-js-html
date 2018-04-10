@@ -150,4 +150,4 @@ style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-
 $(".fl.ustat").css("width", "5px")
 
 
-
+$(".label.label-primary.mini.fl").html(`<span class="s1 fa fa-google-wallet label badgex   label-as-badge label-success"></span>ONline`);
