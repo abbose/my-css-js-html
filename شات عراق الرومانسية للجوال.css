@@ -1,7 +1,6 @@
 @font-face{font-family:'jazeera';src: url('https://www.fontstatic.com/fonts/jazeera/jazeera.eot?#iefix');src: local('الجزيرة'), local('jazeera'),url('https://www.fontstatic.com/fonts/jazeera/jazeera.woff') format('woff');}
 @font-face{font-family:'jazeera-light';src: url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.eot?#iefix');src: local('الجزيرة خفيف'), local('jazeera-light'),url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.woff') format('woff');}
-.fr.borderg a {color: #BA4E86;}
-.fr.borderg {color: #BA4E86;}
+
 
 
 
@@ -26,13 +25,8 @@ div#tlogins .hand.nosel.fl.uzr.border, .lonline.light.break {background-image: u
 
 }
 #asim10 {border-top: 2px solid #f50784; border-bottom: 2px solid #f50784; margin-bottom: 2px; border-radius: 10px 10px 10px 10px;}
-div#tlogins .fr.borderg {
-    font-size: 10px!important;
-}
-div#tlogins .fr.borderg a {
-    font-size: 10px!important;
-}
-.fr.borderg {border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 5px 5px;margin-top: 1px;}
+
+
 ul.nav.nav-tabs.fl li a:hover {background-color: #FF3333;color: white;}
 ul.nav.nav-tabs.fl li {width: 33.3%;border-top: 2px solid #EB047C;border-radius: 5px 5px 0px 0px;background-color: #FDF0F8;border-bottom: 3px solid #f50784;}
 fa.fa-user {border-radius: 10px 10px 10px 10px;}
@@ -98,13 +92,8 @@ label.fl.label.loginstat.label-success {
     height: 22px;
     display: inline-flex;
 }
-div#tlogins .fr.borderg {
-    font-size: 10px!important;
-}
-div#tlogins .fr.borderg a {
-    font-size: 10px!important;
-}
-.fr.borderg {border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 5px 5px;margin-top: 1px;}
+
+
 .asim111 {
 font-family: 'jazeera',FontAwesome;
     
