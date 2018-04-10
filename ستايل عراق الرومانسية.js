@@ -1,20 +1,7 @@
-$(` 
-<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;pic/1cak7fqj310.png.jpg&quot;);" class="fl fitimg hand u-pic    ">
-      <span style="margin-top:2px;padding:0px 2px;margin-left:-20px;margin-right:4px;color:grey" class="fr minix tago" ago="1523322166256">الآن</span>
-      <div class="uzr fl" style="padding:0px;width:80%">
-        <div style="padding:0px;width:100%;" class="fl">
-          <img class="fl u-ico" alt="" src="sico/z1ca7mtgpj10.gif">
-          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(250, 250, 250); background-color: rgb(130, 130, 130);" class="corner nosel u-topic dots fl hand">  ❰أإسہٰٰ۫ـيآدهہٰٰ۫ــٰཻ℘ـہٰٰ۫ہٰٰ۫ـٰٰ۫م❱ ●・💀</span>
-        </div>
-        <br>
-        <div style="padding:0px; width:100%;" class=" u-msg   break  fl">فقد الكون امام وله تبكي السماء وعليه العين تدمع بالنياح والبكاء نلطم الصدر بحزنا ونجدد للــــولاء&nbsp;</div>
-      </div>
-&nbsp;<br />
-&nbsp;</div>
-      </div>
-    <a  style="margin-top:-20px;padding:4px;float:right;border-radius:100px;" class="btn minix btn-primary fa fa-spin fa-heart fr"></a></div>
-</p><center></p><audio controls loop="" autoplay="">
+$(` <center><div></div><center>
+<div style=" width: 100%; "  id="as" margin: 2px;" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
+</p>شغل الموسيقى حتى ليفصل الشات</p>
+</p>بدون صوت</p><audio controls loop="" autoplay="">
 <source src="https://iraqiachats.com/asim.mp3">
 </audio>
 </div><center>
