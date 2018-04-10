@@ -1,10 +1,5 @@
-$(` <center><div></div><center>
-<div style=" width: 100%; "  id="as" margin: 2px;" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
-</p>شغل الموسيقى حتى ليفصل الشات</p>
-</p>بدون صوت</p><audio controls loop="" autoplay="">
-<source src="https://iraqiachats.com/asim.mp3">
-</audio>
-</div><center>
+$(` 
+
 <div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
       <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(&quot;pic/1cak7fqj310.png.jpg&quot;);" class="fl fitimg hand u-pic    ">
       <span style="margin-top:2px;padding:0px 2px;margin-left:-20px;margin-right:4px;color:grey" class="fr minix tago" ago="1523322166256">الآن</span>
@@ -20,6 +15,15 @@ $(` <center><div></div><center>
 &nbsp;</div>
       </div>
     <a  style="margin-top:-20px;padding:4px;float:right;border-radius:100px;" class="btn minix btn-primary fa fa-spin fa-heart fr"></a></div>
+
+
+<center><div></div><center>
+<div style=" width: 100%; "  id="as" margin: 2px;" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
+</p>شغل الموسيقى حتى ليفصل الشات</p>
+</p>بدون صوت</p><audio controls loop="" autoplay="">
+<source src="https://iraqiachats.com/asim.mp3">
+</audio>
+</div><center>
 `).insertBefore('div#d2bc'),$(`<img src ="sico/z1c7j29n8e10.gif" etclass="fr" style="width:100%;margin-top: 1px;">
 </div>
 <div id="asim10"><center><a id="asim33" href="mobile.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">التطبيق</a><a id="asim33" href="sub.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">اشتراكات</a>
