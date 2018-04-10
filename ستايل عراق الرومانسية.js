@@ -148,6 +148,6 @@ btn btn-info" id="iqr30-com"> قوانين الشات </h4>
 <div 
 style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: #c23636;"  id="ass" class="fl mini fa fa-heartbeat btn btn-danger" type="button"  data-toggle="modal" data-target="#myModal" >&nbsp; القوانين &nbsp;</div>`).insertBefore('label.fl.nosel.label.pnhead');
 $(".fl.ustat").css("width", "5px")
-$(".label.label-primary.mini.fl").html(`<span class="s1 fa fa-wifi label badgex   label-as-badge label-success"></span>`);
+
 
 
