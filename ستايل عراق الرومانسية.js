@@ -29,7 +29,7 @@ $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px
 session_start(); 
 $_SESSION['css_show_key'] = "Mr.Ajax"; 
 ?>
-<link rel="stylesheet" type="text/css" href=""><style>
+<link rel="stylesheet" type="text/css" href="https://iqr30.github.io/my-css-js-html/شات عراق الرومانسية للجوال.css"><style>
 
 
 
