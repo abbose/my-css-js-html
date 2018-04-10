@@ -14,10 +14,10 @@ $(`
 &nbsp;<br />
 &nbsp;</div>
       </div>
-    <a  style="margin-top:-20px;padding:4px;float:right;border-radius:100px;" class="btn minix btn-primary fa fa-spin fa-heart fr"></a></div>
+    <a  style="margin-top:-20px;padding:4px;float:right;border-radius:100px;" class="btn minix btn-primary fa fa-spin fa-heart fr"></a></div></p>
 
 
-<center><div></div><center>
+</p><center><div></div><center>
 <div style=" width: 100%; "  id="as" margin: 2px;" class="btn btn-primary btn-asim" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">● · مـوسـيـقـى · ●</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i>
 </p>شغل الموسيقى حتى ليفصل الشات</p>
 </p>بدون صوت</p><audio controls loop="" autoplay="">
