@@ -274,6 +274,7 @@ label.label.label-primary.mini.fl {
     font-family: 'jazeera-light',FontAwesome;
     margin-top: 1px;
 }
+
 .s1.fa.fa-google-wallet.label.badgex.label-as-badge.label-success {color: #BA4E86;}
 .s1.fa.fa-google-wallet.label.badgex.label-as-badge.label-success {
     padding: 1px 1px 1px 1px;
