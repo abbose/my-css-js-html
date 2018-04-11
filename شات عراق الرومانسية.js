@@ -90,7 +90,15 @@ div#l2 ,div#l3, div#l1 {
     height: 69px;
 }
 
-
+div#l1.grow.break.tab-pane.fade.active.in {
+    height: auto!important;
+}
+div#l2.grow.break.tab-pane.fade.active.in {
+    height: auto!important;
+}
+div#l3.grow.break.tab-pane.fade.active.in {
+    height: auto!important;
+}
 
 </style>`).insertBefore('body');
 $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'),document.getElementById('tbox').placeholder='\u0639\u0645\u064A \u0639\u0648\u0641 \u0627\u0644\u0633\u0637\u062D \u0648\u062F\u0631\u062F\u0634 \u0648\u064A\u0627\u0646\u0627',$('[data-target=#wall]').attr('title','\u0644\u062A\u0646\u0634\u0631\u0648\u0646 \u0627\u063A\u0627\u0646\u064A'),$(`
