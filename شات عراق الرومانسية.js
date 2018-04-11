@@ -90,7 +90,7 @@ div#l1  input#u1 {border-radius: 15px 15px 0px 0px;border: 1px solid #FFE0F6;wid
 div#l1 button {border-radius: 0px 0px 15px 15px;width: 99%;height: 30px;}
 div#l3 button {border-radius: 15px;width: 99%;height: 30px;margin-left:1px;}
 div#l2 button {border-radius: 15px;width: 85%;height: 30px;}
-div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3{width: 49%;padding: 0px!important;float: right;margin: 2px 5px 2px 0px;;text-align: center;}
+div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3{width: 49%;padding: 0px!important;float: right;margin: 2px 5px 2px 0px;;text-align: center;font-family: 'jazeera-light',FontAwesome;}
 div#l2 input#u2, div#l3 input#u3{margin-left: -6px;border-radius: 0px 15px 15px 0px;border: 1px solid #FFE0F6;}
 div#l2 input#pass1, div#l3 input#pass2 {border-radius: 15px 0px 0px 15px;border: 1px solid #FFE0F6;}
 div#l2 , div#l3 {padding: 2px!important;}
@@ -227,3 +227,11 @@ $(".fl.ustat").css("width", "5px")
 
 
 $(".fa.fa-user-plus").html(`تسجيل`);
+(document.getElementById("u1").placeholder = "اكتب اسمك يزاير.اشرب جاي يزاير");
+
+(document.getElementById("pass1").placeholder = "باسووردك");
+
+(document.getElementById("u2").placeholder = "اسم عضويتك");
+(document.getElementById("pass2").placeholder = "باسوردك بس لتنسى");
+
+(document.getElementById("u3").placeholder = "اسمك لازم تحفظه");
