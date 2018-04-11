@@ -31,6 +31,33 @@ $_SESSION['css_show_key'] = "Mr.Ajax";
 ?>
 <link rel="stylesheet" type="text/css" href=""><style>
 
+div#l1  input#u1 {border-radius: 15px 15px 0px 0px;border: 1px solid #FFE0F6;width: 99%;margin-top: 3px;margin-left:1px;text-align: center;}
+div#l3 button, div#l1 button {border-radius: 0px 0px 15px 15px;width: 99%;height: 30px;margin-left:1px;}
+div#l2 button {border-radius: 15px;width: 70%;height: 30px;}
+div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3{width: 49%;padding: 0px!important;float: right;margin: 2px 5px 2px 0px;;text-align: center;}
+div#l2 input#u2, div#l3 input#u3{margin-left: -6px;border-radius: 0px 15px 15px 0px;border: 1px solid #FFE0F6;}
+div#l2 input#pass1, div#l3 input#pass2 {border-radius: 15px 0px 0px 15px;border: 1px solid #FFE0F6;}
+div#l2 , div#l3 {padding: 2px!important;}
+div#l1 {height: 80px;margin: 0px 1px -18px 1px;padding: 0px!important;}
+div#l3 br , div#l2 br {display: none;}
+input#pass1:focus,input#u1:focus,input#u3:focus,input#pass2:focus, input#u2:focus {
+    transition:2s;
+    outline: 0;
+    border-color: #FF0897;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(252,18,18,0.8);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(252,18,18,0.8);
+}
+div#l2 ,div#l3, div#l1 {
+    border-bottom: 2px solid;
+    margin-bottom: 2px;
+    border-top: 0px solid;
+    margin-top: 0px;
+    border-color: #FF0897;
+    border-radius: 15px;
+}
+
+
 
 
 #ass {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #E80883; height: 20px; color: #FFFFFA; border-radius: 40px 40px 0px 40px!important; padding-bottom: 2px!important;
