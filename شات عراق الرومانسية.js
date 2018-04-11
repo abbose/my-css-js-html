@@ -70,7 +70,7 @@ div#l2 input#u2 {height: 30px;}
 div#l2 input#pass1 {height: 30px;}
 div#l3 input#pass2 {height: 30px;}
 div#l3 input#u3 {height: 30px;}
-div#l1 button:focus,div#l3 button:focus {
+div#l2 button:focus,div#l3 button:focus {
     outline: 0;
     border-color: #FFE0F6;
     outline: 0;
