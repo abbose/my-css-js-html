@@ -105,7 +105,13 @@ div#l2 ,div#l3, div#l1 {
     border-radius: 15px;
     height: 69px;
 }
-
+nav.nav-tabs.fl {
+    height: auto!important;
+}
+div#l1 button ,div#l3 button ,div#l2 button {
+    height: auto!important;
+}
+ul {height: 36px;}
 div#l1.grow.break.tab-pane.fade.active.in {
     height: auto!important;
 }
