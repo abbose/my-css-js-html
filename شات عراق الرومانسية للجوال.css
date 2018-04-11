@@ -34,7 +34,7 @@ div#tlogins .fr.borderg a {
 }
 .fr.borderg {border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 5px 5px;margin-top: 1px;}
 ul.nav.nav-tabs.fl li a:hover {background-color: #FF3333;color: white;}
-ul.nav.nav-tabs.fl li {width: 33.3%;border-top: 2px solid #EB047C;border-radius: 5px 5px 0px 0px;background-color: #FDF0F8;border-bottom: 3px solid #f50784;}
+
 fa.fa-user {border-radius: 10px 10px 10px 10px;}
 ul.nav.nav-tabs.fl li a {font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 4px!important;text-align: center!important;border-radius: 5px 5px 0px 0px;width: 100%;color: #bd4b87;}
 
