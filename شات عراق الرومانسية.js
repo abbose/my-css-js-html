@@ -86,7 +86,7 @@ div#l1 button:focus {
     box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
     border-radius: 0px 0px 15px 15px;
 }
-div#l1  input#u1 {border-radius: 15px 15px 0px 0px;border: 1px solid #FFE0F6;width: 99%;margin-top: 3px;margin-left:1px;text-align: center;}
+div#l1  input#u1 {border-radius: 15px 15px 0px 0px;border: 1px solid #FFE0F6;width: 99%;margin-top: 3px;margin-left:1px;text-align: center;font-family: 'jazeera-light',FontAwesome;}
 div#l1 button {border-radius: 0px 0px 15px 15px;width: 99%;height: 30px;}
 div#l3 button {border-radius: 15px;width: 99%;height: 30px;margin-left:1px;}
 div#l2 button {border-radius: 15px;width: 85%;height: 30px;}
