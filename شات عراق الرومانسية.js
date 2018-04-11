@@ -70,9 +70,25 @@ div#l2 input#u2 {height: 30px;}
 div#l2 input#pass1 {height: 30px;}
 div#l3 input#pass2 {height: 30px;}
 div#l3 input#u3 {height: 30px;}
-
+div#l1 button:focus,div#l3 button:focus {
+    outline: 0;
+    border-color: #FFE0F6;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
+    border-radius: 15px;
+}
+div#l1 button:focus {
+    outline: 0;
+    border-color: #FFE0F6;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
+    border-radius: 0px 0px 15px 15px;
+}
 div#l1  input#u1 {border-radius: 15px 15px 0px 0px;border: 1px solid #FFE0F6;width: 99%;margin-top: 3px;margin-left:1px;text-align: center;}
-div#l3 button, div#l1 button {border-radius: 0px 0px 15px 15px;width: 99%;height: 30px;margin-left:1px;}
+div#l1 button {border-radius: 0px 0px 15px 15px;width: 99%;height: 30px;}
+div#l3 button {border-radius: 15px;width: 99%;height: 30px;margin-left:1px;}
 div#l2 button {border-radius: 15px;width: 85%;height: 30px;}
 div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3{width: 49%;padding: 0px!important;float: right;margin: 2px 5px 2px 0px;;text-align: center;}
 div#l2 input#u2, div#l3 input#u3{margin-left: -6px;border-radius: 0px 15px 15px 0px;border: 1px solid #FFE0F6;}
