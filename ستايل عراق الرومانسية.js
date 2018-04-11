@@ -176,4 +176,4 @@ $(".label.label-primary.mini.fl").html(`<span class="s1 fa fa-google-wallet labe
 $(".fa.fa-user-plus").html(`تسجيل`);
 $(".ae.label.label-primary.fa.fa-gear").html(`اعداداتك`);
 $(".ae.fa.label.fa-commenting-o.label-primary").html(`جدار`);
-$(".ae.fa.label.fa-commenting-o.label-warning").html(`جدار`);
+
