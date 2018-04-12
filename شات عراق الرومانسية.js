@@ -129,11 +129,10 @@ $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="t
 
 <div  class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div style="max-width: 390px;"class="modal-dialog" role="document">
-    <div class="modal-content"style="background-color: #FEF5FF;">
+    <div class="modal-content"style="background-color: #f5f3ed;">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="fl mini  fa fa-heartbeat
-btn btn-info" id="iqr30-com"> قوانين الشات </h4>
+        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="modal-title" id="myModalLabel"> قوانين الشات </h4>
       </div>
       <div style="padding: 0;" class="asim-iqr32">
 <div dir="rtl" style="text-align: right;padding: 0;margin-right: -20px;" trbidi="on">
@@ -206,8 +205,7 @@ btn btn-info" id="iqr30-com"> قوانين الشات </h4>
           <span class="asim-iqr3">تسولف بالجدار عادي تشكر شخص ع منشوره عادي بس مال ادز سمايلات وتتعارك ممنوع اطير لايكاتك
 		  		  		  </span> <span style="color: red;">
 
-</span>
-        </div>
+       </div>
       </li>
 
     </div>  
@@ -215,13 +213,13 @@ btn btn-info" id="iqr30-com"> قوانين الشات </h4>
   
 </div>      </div>
       <div class="modal-footer">
-        <button style="margin-right: 107px;" type="button" class="btn btn-danger" data-dismiss="modal">إغــلاق نـآفذة  القوانين</button>
+        <button style="margin-right: 107px;" type="button" class="btn btn-default" data-dismiss="modal">إغــــــــــلاق نـآفذة  اوقات الفعاليات</button>
       </div>
     </div>
   </div>
 </div>
 <div 
-style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: #c23636;"  id="ass" class="fl mini fa fa-heartbeat btn btn-danger" type="button"  data-toggle="modal" data-target="#myModal" >&nbsp; القوانين &nbsp;</div>`).insertBefore('label.fl.nosel.label.pnhead');
+style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: black;" type="button" class="fl mini fa fa-heartbeat btn btn-danger"  data-toggle="modal" data-target="#myModal" >&nbsp; القوانين &nbsp;</div>`).insertBefore('label.fl.nosel.label.pnhead');
 $(".fl.ustat").css("width", "5px")
 
 
