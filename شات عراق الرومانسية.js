@@ -8,6 +8,8 @@ $(` <center><div></div><center>
 </audio>
 </div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),
 
+      
+$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="sico/z1casj3f6210.png" class="fl" style="margin-Right: 2px; width: 30px;">');
 
 $(` <center><marquee direction="right" width="99%" id="asim55" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >قوانين الشات ● • في حال ذكر وتبيين اسماء مواقع اخرى تعرضك لحذف العضوية والحظر يرجى من الزوار والمراقبين عدم ذكر اسماء مواقع اخرى ● • وشكرآ لكم</marquee></font><center>
 `).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),
