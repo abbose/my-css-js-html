@@ -437,7 +437,7 @@ function ondata(cmd, data) {
             lstat('warning', 'هذا الإسم غير مسجل !');
             break;
           case "badname":
-            lstat('warning', 'يرجى إختيار أسم آخر');
+            lstat('warning', 'اكتب اسم حمبي');
             break;
           case "usedname":
             lstat('danger', 'شوفلك غير اسم');
