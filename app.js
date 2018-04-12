@@ -850,7 +850,7 @@ function star(u, points) {
 }
 function sendpm(d) {
   if (ismuted(getuser(d.data.uid))) {
-    alert('حتى تحجي ويا هيه مال جاقات\nاليغير التجاهل');
+    alert('الغي التجاهل\nحتى تحجي ويا هيه مال جاقات');
     return;
   }
   var m = $(".tbox" + d.data.uid).val();
