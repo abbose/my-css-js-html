@@ -139,7 +139,7 @@ function newsock()
     lstat('success', 'متصل يا حلو'); $('#tlogins button').removeAttr('disabled');
     if (pending) { socket.emit('re', { token: token });pending=false; }
     if (getUrlParameter('enter') != null) {
-      $('#u3').val(hash([new Date().getTime()], 256) + '_زائر');
+      $('#u1').val(hash([new Date().getTime()], 256) + '_زائر');
       login(1);
     }
   });
