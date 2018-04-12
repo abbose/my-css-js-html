@@ -129,89 +129,83 @@ $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="t
 
 <div  class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div style="max-width: 390px;"class="modal-dialog" role="document">
-    <div class="modal-content"style="background-color: #f5f3ed;">
+    <div class="modal-content"style="background-color: #FEF5FF;">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="modal-title" id="myModalLabel"> اوقات فعاليات الحائط </h4>
+        <h4 style="text-align: center;font-family: 'DroidArabicKufiRegular',FontAwesome;"class="fl mini  fa fa-heartbeat
+btn btn-info" id="iqr30-com"> قوانين الشات </h4>
       </div>
-      <div style="padding: 0;" class="modal-body">
+      <div style="padding: 0;" class="asim-iqr32">
 <div dir="rtl" style="text-align: right;padding: 0;margin-right: -20px;" trbidi="on">
 <ul class="main">
       <li>
         <div>
-          <span class="event-time"> 5:00am <- 1:00am  [ فجراً ] </span>
-          <span class="event-name">نشر وابداع </span>
+          <span class="asim-iqr30"> قانون ذكر المواقع </span>
           <br />
-          <span class="red event-location">
-          الملاحظات : 
+          <span class="asim-iqr3">
+            ممنوع اي شخص يذكر اسم موقع او شات او يروج لهالشي والي يسوي هيج تنسحب لايكاته وينظرب باند 
          </span> <span style="color: red;">
-          يمنع منعاً باتا السوالف في الموقت المحدد للنشر والابداع</span>
+      </span>
         </div>
       </li>
        
        <li>
         <div>
-          <span class="event-time"> 10:00am <- 5:00am  [ صباحـآً ] </span>
-          <span class="event-name">سوالف وفرفشة</span>
+          <span class="asim-iqr30">دعاء لسارقين الزوار </span>
           <br />
-          <span class="event-location">الملاحظات : 
+          <span class="asim-iqr3">يارب يموت اعز شخص عندك بالدنيا اذا تبوك زوار من يمنا من غير مكان تبوك وجيبلنا عادي 
                    </span> <span style="color: red;">
-هاذا الوقت مخصص للدردشة والسوالف والتعليق على صور وفيديوهات الاعضاء التي يتم نشرها 
+
         </div>
       </li>
       
        <li>
         <div>
-          <span class="event-time"> 1:00pm - 10:00am  [ ضهراً ] </span>
-          <span class="event-name"> نشر ونقاشات مفتوحة </span>
+          <span class="asim-iqr30"> قانون التجاوزات </span>
           <br />
-          <span class="event-location">الملاحظات :   
+          <span class="asim-iqr3"> ممنوع اي شخص يجاوز والي يجاوز اخذله سكرين للتجاوز مالته وانطيها للمراقب او الادإره هيه تتصرف  
 		  </span> <span style="color: red;">
-		  الوقت مخصص للمواضيع الهادفة والنقاشات المفتوحة بين الاعضاء
+		
 </span>
         </div>
       </li>
       
        <li>
         <div>
-          <span class="event-time"> 5:00pm - 1:00pm   [ عصراً ] </span>
-          <span class="event-name"> نشر وابداع </span>
+          <span class="asim-iqr30">قانون الزحف </span>
           <br />
-          <span class="event-location">الملاحظات : 
+          <span class="asim-iqr3"> ممنوع اي شخص يضايق شخص ثاني بالعام او بالخاص او تنبيهات او جدار والي يسوي هيج ينطرد
 		  		  </span> <span style="color: red;">
-          يمنع منعاً باتا السوالف في الموقت المحدد للنشر والابداع</span>
+        </span>
         </div>
       </li>
       
        <li>
         <div>
-          <span class="event-time"> 6:00pm <- 5:00pm  [ المغرب ]</span>
-          <span class="event-name"> مسابقات منوعه </span>
+          <span class="asim-iqr30"> قانون الايحاءات</span>
           <br />
-          <span class="event-location">الملاحظات : 
+          <span class="asim-iqr3">ممنوع التحدث بكلام غير اخلاقي حتى ولو كان غير مباشر
 		  		  		  </span> <span style="color: red;">
-هاذا الوقت مخصص للمسابقات في الحائط 
+
 		  </span>
         </div>
       </li>
 	         <li>
         <div>
-          <span class="event-time"> 11:30pm <- 6:00pm  [ مساً ]</span>
-          <span class="event-name"> نشر وابداع </span>
+          <span class="asim-iqr30"> قانون السياسة والدين</span>
           <br />
-          <span class="event-location">الملاحظات : 
+          <span class="asim-iqr3">ممنوع التحدث بالسياسه والدين واليحجي يروح بالرجلين
 		  		  		  </span> <span style="color: red;">
-يمنع منعاً باتا السوالف في الموقت المحدد للنشر والابداع		  </span>
+		  </span>
         </div>
       </li>
 	         <li>
         <div>
-          <span class="event-time"> 1:00am <- 11:30pm  [ منتصف اليل ]</span>
-          <span class="event-name"> سوالف وفرفشة </span>
+          <span class="asim-iqr30"> قانون الجدار</span>
           <br />
-          <span class="event-location">الملاحظات : 
+          <span class="asim-iqr3">تسولف بالجدار عادي تشكر شخص ع منشوره عادي بس مال ادز سمايلات وتتعارك ممنوع اطير لايكاتك
 		  		  		  </span> <span style="color: red;">
-هاذا الوقت مخصص للدردشة والسوالف والتعليق على صور وفيديوهات الاعضاء التي يتم نشرها 
+
 </span>
         </div>
       </li>
@@ -221,13 +215,13 @@ $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="t
   
 </div>      </div>
       <div class="modal-footer">
-        <button style="margin-right: 107px;" type="button" class="btn btn-default" data-dismiss="modal">إغــــــــــلاق نـآفذة  اوقات الفعاليات</button>
+        <button style="margin-right: 107px;" type="button" class="btn btn-danger" data-dismiss="modal">إغــلاق نـآفذة  القوانين</button>
       </div>
     </div>
   </div>
 </div>
 <div 
-style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: black;" type="button"  data-toggle="modal" data-target="#myModal" > فعاليات الحائط</div>`).insertBefore('label.fl.nosel.label.pnhead');
+style="padding: 3px 2px 1px 2px;margin-right:4px;width: 100px;float: right;text-align: center;margin-top: -16px;border-radius: 15px;color: white;background-color: #c23636;"  id="ass" class="fl mini fa fa-heartbeat btn btn-danger" type="button"  data-toggle="modal" data-target="#myModal" >&nbsp; القوانين &nbsp;</div>`).insertBefore('label.fl.nosel.label.pnhead');
 $(".fl.ustat").css("width", "5px")
 
 
