@@ -30,7 +30,97 @@ $(`<div class="uzr fl corner borderg mm bid1camh6so110" style="border-radius:5px
 $(`
 <link rel="stylesheet" href="https://iqr30.github.io/my-css-js-html/شات عراق الرومانسية للجوال.css"><style>
 
+label.label.label-primary.mini.fl {
+    width: 35%!important;
+    height: 27.5px;
+    float: right;
+    margin: left;
+    color: #BA4E86;
+    background-color: #FFFFFF!important;
+    font-size: 12px!important;
+    border-radius: 5px 5px 5px 5px!important;
+    border: 1px solid #FFE0F6;
+    font-family: 'jazeera-light',FontAwesome;
+    margin-top: 1px;
+}
 
+#asim0 {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #780444; height: 25px; color: #FFFFFA; border-radius: 5px 5px 5px 5px; border-bottom: 2px solid #FF0897; border-top: 2px solid #FF0897; padding-bottom: 2px!important;
+    text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
+
+}
+#as {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; color: #FFFFFA; border-radius: 5px 5px 5px 5px;
+    text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
+border: 1px solid #FFE0F6;
+height: 33px;
+text-align: center;
+}
+
+ul.nav.nav-tabs.fl li a {ffont-family: 'jazeera',FontAwesome;font-size: 15px!important;padding: 4px!important;text-align: center!important;border-radius: 5px 5px 0px 0px;width: 100%;color: #bd4b87;}
+
+ul.nav.nav-tabs.fl li {width: 33.3%;
+border-top: 2px solid #EB047C;
+border-radius: 5px 5px 0px 0px;
+background-color: #FDF0F8;
+border-bottom: 1px solid #FF4AB1;
+
+}
+
+div#l1  input#u1 {height: 30px;}
+div#l2 input#u2 {height: 30px;}
+div#l2 input#pass1 {height: 30px;}
+div#l3 input#pass2 {height: 30px;}
+div#l3 input#u3 {height: 30px;}
+div#l2 button:focus,div#l3 button:focus {
+    outline: 0;
+    border-color: #FFE0F6;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
+    border-radius: 15px;
+}
+div#l1 button:focus {
+    outline: 0;
+    border-color: #FFE0F6;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255,98,181);
+    border-radius: 0px 0px 15px 15px;
+}
+div#l1  input#u1 {border-radius: 15px 15px 0px 0px;border: 1px solid #FFE0F6;width: 99%;margin-top: 3px;margin-left:1px;text-align: center;font-family: 'jazeera-light',FontAwesome;}
+div#l1 button {border-radius: 0px 0px 15px 15px;width: 99%;height: 30px;}
+div#l3 button {border-radius: 15px;width: 99%;height: 30px;margin-left:1px;}
+div#l2 button {border-radius: 15px;width: 85%;height: 30px;}
+div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3{width: 49%;padding: 0px!important;float: right;margin: 2px 5px 2px 0px;;text-align: center;font-family: 'jazeera-light',FontAwesome;}
+div#l2 input#u2, div#l3 input#u3{margin-left: -6px;border-radius: 0px 15px 15px 0px;border: 1px solid #FFE0F6;}
+div#l2 input#pass1, div#l3 input#pass2 {border-radius: 15px 0px 0px 15px;border: 1px solid #FFE0F6;}
+div#l2 , div#l3 {padding: 2px!important;}
+div#l1 {height: 80px;margin: 0px 1px -18px 1px;padding: 0px!important;}
+div#l3 br , div#l2 br {display: none;}
+div#l2 ,div#l3, div#l1 {
+    border-bottom: 2px solid;
+    margin-bottom: 2px;
+    border-top: 0px solid;
+    margin-top: 0px;
+    border-color: #FF0897;
+    border-radius: 15px;
+    height: 69px;
+}
+nav.nav-tabs.fl {
+    height: auto!important;
+}
+div#l1 button ,div#l3 button ,div#l2 button {
+    height: auto!important;
+}
+ul {height: 36px;}
+div#l1.grow.break.tab-pane.fade.active.in {
+    height: auto!important;
+}
+div#l2.grow.break.tab-pane.fade.active.in {
+    height: auto!important;
+}
+div#l3.grow.break.tab-pane.fade.active.in {
+    height: auto!important;
+}
 
 
 </style>`).insertBefore('body');
