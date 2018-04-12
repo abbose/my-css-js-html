@@ -122,10 +122,7 @@ div#l3.grow.break.tab-pane.fade.active.in {
     height: auto!important;
 }
 
-#ass {font-family: 'jazeera-light',FontAwesome;margin-bottom: 2px; background-color: #E80883; height: 20px; color: #FFFFFA; border-radius: 40px 40px 0px 40px!important; padding-bottom: 2px!important;
-    text-shadow: 2px 0px 8px rgba(255,255,219) , 0px 2px 10px #fff !important;
-border: 1px solid #FFF0FA
-}
+
 </style>`).insertBefore('body');
 $(`<center><div><marquee direction="right" width="99%" id="asim8" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">  &nbsp;اهلا وسهلا بكم في شات <font color="#595757" class="asim12">عراق الرومانسية</font> ● · افضل سوبر لهذا الاسبوع  · ●<font class="asim11" color="#727A54"> اوديــت </font> ● · افضل زائر لهذا الاسبوع  · ●<font class="asim11" color="#ff9900"> ضــآيـج </font> ● · افضل زائرة لهذا الاسبوع  · ●<font class="asim11" color="#ff00ff"> آمـي  عـآفـيـتـي </font> ● · مبدع الحائط لهذا الاسبوع · ●<font class="asim11" color="#5CAD9A"> حـطـمـوك يـآقـلـبـي </font> ● · مبدعة الحائط لهذا الاسبوع · ●<font class="asim11" color="#800000"> نـتـالـي </font> ● · افضل تواجد لهذا الاسبوع · ●<font class="asim11" color="#417570"> رهـف بـنـت الـبـاشـا </font>  ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;</marquee></div><center>`).insertBefore('div#tlogins .lonline.light.break'),document.getElementById('tbox').placeholder='\u0639\u0645\u064A \u0639\u0648\u0641 \u0627\u0644\u0633\u0637\u062D \u0648\u062F\u0631\u062F\u0634 \u0648\u064A\u0627\u0646\u0627',$('[data-target=#wall]').attr('title','\u0644\u062A\u0646\u0634\u0631\u0648\u0646 \u0627\u063A\u0627\u0646\u064A'),$(`
 
