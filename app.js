@@ -440,7 +440,7 @@ function ondata(cmd, data) {
             lstat('warning', 'يرجى إختيار أسم آخر');
             break;
           case "usedname":
-            lstat('danger', 'هذا الإسم مسجل من قبل');
+            lstat('danger', 'شوفلك غير اسم');
             break;
           case "badpass":
             lstat('warning', 'كلمه المرور غير مناسبه');
@@ -448,7 +448,7 @@ function ondata(cmd, data) {
             lstat('danger', 'كلمه المرور غير صحيحه');
             break;
           case "reg":
-            lstat('success', 'تم تسجيل العضويه بنجاح !');
+            lstat('success', 'مبروك سجلت !');
             $('#u2').val($('#u3').val());
             $('#pass1').val($('#pass2').val());
             login(2);
