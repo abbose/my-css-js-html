@@ -1,3 +1,14 @@
+$(` <center><div></div><center>
+<div style=" width: 100%;height: auto!important; "  id="as" margin: 2px;" class="fa fa-heartbeat btn btn-danger" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">&nbsp;● · مـوسـيـقـى · ●&nbsp;</div>
+<div class="collapse" id="collapseExample">
+<center><div class="well"><p lass="bg-primary"></i>
+</p>شغل الموسيقى حتى ليفصل الشات</p>
+<audio controls loop="" autoplay="">
+<source src="https://iraqiachats.com/asim.mp3">
+</audio>
+</div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),
+
+
 $(` <center><marquee direction="right" width="99%" id="asim55" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2" >قوانين الشات ● • في حال ذكر وتبيين اسماء مواقع اخرى تعرضك لحذف العضوية والحظر يرجى من الزوار والمراقبين عدم ذكر اسماء مواقع اخرى ● • وشكرآ لكم</marquee></font><center>
 `).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),
 
