@@ -1257,7 +1257,7 @@ function upro(id) {
   ht.find('.urkick').css('background-color', "").off().click(function () { $(this).css('background-color', "indianred"); send('action', { cmd: 'roomkick', id: id }); ht.modal("hide"); });
   ht.find('.uban').css('background-color', "").off().click(function () { $(this).css('background-color', "indianred"); send('action', { cmd: 'ban', id: id }); ht.modal("hide"); });
   ht.find('.unot').css('background-color', "").off().click(function () {
-    var m = prompt(‘عليك العباس لتجاوز ولا تعزم’, '');
+    var m = prompt('عليك العباس لتجاوز ولا تعزم', '');
     if (m == null || m == '') { return; }
 
     $(this).css('background-color', "indianred"); send('action', { cmd: 'not', id: id, msg: m });
