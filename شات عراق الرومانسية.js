@@ -232,6 +232,6 @@ $(".fa.fa-user-plus").html(`تسجيل`);
 (document.getElementById("pass1").placeholder = "باسووردك");
 
 (document.getElementById("u2").placeholder = "اسم عضويتك");
-(document.getElementById("pass2").placeholder = "باسوردك بس لتنسى");
+(document.getElementById("pass2").placeholder = "باسووردك بس لتنسى");
 
 (document.getElementById("u3").placeholder = "اسمك لازم تحفظه");
