@@ -39,7 +39,7 @@ $(`
 <link rel="stylesheet" href="https://iqr30.github.io/my-css-js-html/شات عراق الرومانسية للجوال.css"><style>
 
 label.label.label-primary.mini.fl {
-    width: 30%!important;
+    width: 33%!important;
     height: 27.5px;
     float: right;
     margin: left;
