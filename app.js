@@ -686,7 +686,7 @@ function lstat(stat, msg) {
 function setprofile() {
   var d = {};
   d.topic = $('.stopic').val();
-  d.msg = $('.smsg').val(شات عراق الرومانسية);
+  d.msg = $('.smsg').val();
   d.ucol = '#' + $('.scolor').val().split('#').join('');
   d.mcol = '#' + $('.mcolor').val().split('#').join('');
   d.bg = '#' + $('.sbg').val().split('#').join('');
