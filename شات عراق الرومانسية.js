@@ -3,7 +3,7 @@ $(` <center><div></div><center>
 <div class="collapse" id="collapseExample">
 <center><div class="well"><p lass="bg-primary"></i>
 </p>هنا هنا جنا سوا</p>
-<audio controls loop="" autoplay="">
+<audio controls loop="" play="">
 <source src="https://iraqiachats.com/iqr30.mp3">
 </audio>
 </div><center>`).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary'),
