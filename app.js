@@ -1005,7 +1005,8 @@ function AddMsg(wid, data) {
     if (power.delbc || data.lid == getuser(myid).lid) {
       msg.append('<a onclick="send(\'delbc\',{bid:\'' + data.bid + '\'})" style="margin-top:-20px;padding:4px;" class="btn minix btn-primary fa fa-times fr">&nbsp;</a>');
     }
-    msg.append('<a onclick="send(\'likebc\',{bid:\'' + data.bid + '\'})" style="margin-top:-20px;padding:4px;border-radius:15px 15px 15px 15px;" class="btn minix btn-danger fa fa-heart fr">&nbsp;</a>')
+      msg.append('<a onclick="send(\'likebc\',{bid:\'' + data.bid + '\'})" style="margin-top:-20px;padding:4px;" class="btn minix btn-danger fa fa-heart fr">&nbsp;</a>')
+
   }
   if (isbc == true) {
     msg.prependTo($(wid))
