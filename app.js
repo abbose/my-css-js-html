@@ -634,6 +634,84 @@ function ondata(cmd, data) {
         rooms.push(data);
         updater(data);
         break;
+         case "calling":
+    // data.roomID
+    // data.caller
+    // data.called
+    // create call notification :accept send callaccept
+    
+    var u2=getuser(data.caller);
+            if (ismuted(getuser(data.uid))) { return; }
+        if ( nopm == true && $('#c' + data.caller).length == 0) { send('nopm', { id: data.caller }); send('calldeny',data);
+      if(wr)
+      {
+      wr.hangUp();
+    } 
+     return; }
+
+    if(wr ==null && $(".callnot").length==0 && u2 !=null && $('#d2'+data.caller).length>0)
+    {  
+      var h=$($('#callnot').html());
+      var uh=$($("#uhtml").html());
+      uh.find('.u-msg').remove();
+      uh.find('.u-topic').html(u2.topic).css({color:u2.ucol,"background-color":u2.bg}); 
+      uh.find('.u-pic').css('background-image', 'url("' + u2.pic + '")').css({width:'24px',height:'24px'});
+      h.find('.uzer').append(uh);
+      h.addClass('callnot');
+      callid=data.caller;
+      h.attr('callid',data.roomid);
+       
+      h.find('.calldeny').click(function (params) {
+      h.remove();
+      send('calldeny',data);
+      if(wr)
+      {
+      wr.hangUp();
+      } 
+      }); 
+      h.find('.callaccept').click(function (params) {
+        callstat=1;
+        $(document.body).append(h);
+        wr=new webrtc(data.roomid,myid); 
+        $(this).hide(); 
+        // enter webrtc
+      });   
+      
+      $('#d2'+data.caller).append(h);
+      hl($('.callstat').text(''),'warning'); 
+      updateu(u2.id);
+        openw(data.pm, false);
+      
+    }else
+    {
+      send('calldeny',data);
+    }
+    // accept send call-accept // connect roomID
+    // deny send call-deny 
+    break;
+    case "callaccept":
+    var h=$('.callnot');
+    var u2=getuser(data.caller);
+    if(h.attr('callid')==data.roomid && u2 !=null & wr==null)
+    {
+      
+    }
+    else
+    {
+      send('calldeny',data);
+    }
+    // data.roomID, data.caller,data.called
+    // alert Accepted do webrtc 
+    break;
+    case "calldeny":
+    if(wr !=null){wr.hangUp();callstat=0;alert('تم رفض المكالمه');}
+    $('.callnot').remove();
+    // webrtc clearup; 
+    break;
+    case "callend":
+    $('.callnot').remove();
+    // webrtc clearup;  
+    break;
     }
   }
   catch (ero) {
