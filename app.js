@@ -641,6 +641,43 @@ function ondata(cmd, data) {
   }
 }
 
+ var callstat=0;
+ var callid=null;
+ // 0=idle,1=calling,2=incall 
+function call(id) {
+    var u2=getuser(id);
+    if(callstat==0 && wr ==null && $(".callnot").length==0 && u2 !=null)
+    { 
+      callstat=1;
+      callid=id;
+      var h=$($('#callnot').html());
+      var uh=$($("#uhtml").html());
+      uh.find('.u-msg').remove();
+      var roomid='jh!'+new Date().getTime()+myid+u2.id;
+      uh.find('.u-topic').html(u2.topic).css({color:u2.ucol,"background-color":u2.bg}); 
+      uh.find('.u-pic').css('background-image', 'url("' + u2.pic + '")').css({width:'24px',height:'24px'});
+      h.find('.uzer').append(uh);
+      h.addClass('callnot');
+      h.attr('callid', roomid);
+      h.find('.callaccept').hide();
+      h.find('.calldeny').click(function (params) {
+      h.remove();
+      send('calldeny',{caller:myid,called:id,roomid:roomid});
+      if(wr)
+      {
+      wr.hangUp();
+      } 
+      }); 
+      $(document.body).append(h);
+      updateu(u2.id);
+      send('calling',{caller:myid,called:id,roomid:roomid})
+      wr=new webrtc(roomid,myid);
+    }
+    else
+    {
+      alert("فشل الإتصال حاول مره اخرى .")
+    }
+}
 var notpos = 0;
 function gettext(d) {
   $.each(d.find("img"), function (i, e) {
