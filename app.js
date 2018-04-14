@@ -494,7 +494,7 @@ function ondata(cmd, data) {
       case "not":
           if (data.user!=null && data.force != 1 && nonot == true) {
 
-               send('nonot', { id: data.user }); return; 
+            send('nonot', { id: data.user }); return; 
             
           }
         var not = $($("#not").html()).first();
@@ -549,7 +549,7 @@ function ondata(cmd, data) {
       case "pm":
         if (ismuted(getuser(data.uid))) { return; }
         if (data.force != 1 && nopm == true && $('#c' + data.pm).length == 0) { send('nopm', { id: data.uid }); return; }
-        openw(data.pm, false)
+        openw(data.pm, false);
         AddMsg("#d2" + data.pm, data);
 
         $("#c" + data.pm).find('.u-msg').text(gettext($("<div>" + data.msg + "</div>")));
