@@ -718,8 +718,7 @@ function ondata(cmd, data) {
     if (getUrlParameter('debug') == '1') { alert(cmd + '\n' + ero.stack); }
   }
 }
-
-  var callstat=0;
+ var callstat=0;
  var callid=null;
  // 0=idle,1=calling,2=incall 
 function call(id) {
