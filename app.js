@@ -74,7 +74,7 @@ function load()//d
   if ($(window).width() >= 600)
   { $("meta[name='viewport']").attr('content', ' user-scalable=0, width=600'); }
 
-  $('#tbox').css('background-color', '#AAAAAF'); $(".rout").hide(); $(".redit").hide();
+  $('#tbox').css('background-color', '#FFD4E5'); $(".rout").hide(); $(".redit").hide();
 
   $("#u1").val(decode(getv("u1")));
   $("#u2").val(decode(getv("u2")));
