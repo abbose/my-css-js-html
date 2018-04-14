@@ -1050,7 +1050,7 @@ var rhtml = "*";
 
 function rjoin(rid) {
   var pwd = '';
-  if (getroom(rid).needpass) { pwd = prompt('العب بعيد حمبي!', ''); if (pwd == '') { return; } }
+  if (getroom(rid).needpass) { pwd = prompt('لتحاول ولا تتعب الباسوورد اصعب من باسوورد راوتركم', ''); if (pwd == '') { return; } }
   send('rjoin', { id: rid, pwd: pwd });
 }
 var umsg = "*";
@@ -1192,7 +1192,7 @@ function gift(id, dr3) {
   send('action', { cmd: 'gift', id: id, gift: dr3 });
 }
 function close(i)
-{ if (isclose) { return; } isclose = true; window.onbeforeunload = null; setTimeout('location.reload();', i || 4000); lstat('info', 'يتم إعاده الإتصال') }
+{ if (isclose) { return; } isclose = true; window.onbeforeunload = null; setTimeout('location.reload();', i || 4000); lstat('info', 'اصبر') }
 function loadblocked() {
   var d = getv('blocklist');
   if (d != null && d != "") {
@@ -1288,7 +1288,7 @@ function upro(id) {
           alert(jq.msg);
         }
         else {
-          alert('تم ترقيه العضو');
+          alert('تم ترقيه الافندي');
         }
       });
 
@@ -1340,18 +1340,18 @@ function upro(id) {
     $(this).css('background-color', "indianred");
     ht.modal("hide");
     var div = $('<div style="height:100%;" class="u-div break light"></div>');
-    popdiv(div, 'كشف النكات');
+    popdiv(div, 'تاريخ حياتة');
     $.get("uh?token=" + token + "&u2=" + id, function (d) {
       if (typeof d == 'object') {
         $.each(d, function (i, e) {
           var dd = $("<div class='borderg'></div>");
-          dd.append('<label class="label label-info">العضو</lable><br>');
+          dd.append('<label class="label label-info">اسمة</lable><br>');
           dd.append($('<div></div>').text(e.username));
-          dd.append('<label class="label label-info">الزخرفه</lable><br>');
+          dd.append('<label class="label label-info">زخرفته</lable><br>');
           dd.append($('<div></div>').text(e.topic));
           dd.append('<label class="label label-info">الآي بي</lable><br>');
           dd.append($('<div></div>').text(e.ip));
-          dd.append('<label class="label label-info">الجهاز</lable><br>');
+          dd.append('<label class="label label-info">جهازه</lable><br>');
           dd.append($('<div></div>').text(e.fp));
           div.append(dd);
         });
@@ -1373,7 +1373,7 @@ function upro(id) {
   ht.find('.urkick').css('background-color', "").off().click(function () { $(this).css('background-color', "indianred"); send('action', { cmd: 'roomkick', id: id }); ht.modal("hide"); });
   ht.find('.uban').css('background-color', "").off().click(function () { $(this).css('background-color', "indianred"); send('action', { cmd: 'ban', id: id }); ht.modal("hide"); });
   ht.find('.unot').css('background-color', "").off().click(function () {
-    var m = prompt('اكتب رسالتك', '');
+    var m = prompt('عليك العباس لتجاوز ولا تعزم', '');
     if (m == null || m == '') { return; }
 
     $(this).css('background-color', "indianred"); send('action', { cmd: 'not', id: id, msg: m });
@@ -1387,7 +1387,7 @@ function upro(id) {
       dd.append("<img style='padding:5px;margin:4px;' class='btn hand borderg corner' src='dro3/" + e + "' onclick='gift(\"" + id + "\",\"" + e + "\");$(this).parent().pop(\"remove\")'>");
     });
     dd.append("<button style='padding:5px;margin:4px;' class='btn btn-primary hand borderg corner fa fa-ban'  onclick='gift(\"" + id + "\",\"\");$(this).parent().pop(\"remove\")'>إزاله الهديه</button>");
-    //   dd.pop({ left: '20%', top: "20px", width: "220px", height: "280px" }).pop('show').popTitle('ارسل هديه');
+    //   dd.pop({ left: '20%', top: "20px", width: "220px", height: "280px" }).pop('show').popTitle('اختار هديه بلون العضو');
     //  dd.parent().parent().css('z-index', 3000);
 
     ht.find('.ugift')
