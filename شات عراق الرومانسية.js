@@ -110,7 +110,7 @@ div#l2 input#pass1, div#l3 input#pass2 {border-radius: 15px 0px 0px 15px;border:
 div#l2 , div#l3 {padding: 2px!important;}
 div#l1 {height: 80px;margin: 0px 1px -18px 1px;padding: 0px!important;}
 div#l3 br , div#l2 br {display: none;}
-div#l2 ,div#l3, div#l1 {
+div#l2 ,div#l3 {
     border-bottom: 2px solid;
     margin-bottom: 2px;
     border-top: 0px solid;
@@ -119,6 +119,7 @@ div#l2 ,div#l3, div#l1 {
     border-radius: 15px;
     height: 69px;
 }
+
 nav.nav-tabs.fl {
     height: auto!important;
 }
