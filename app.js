@@ -148,9 +148,9 @@ function newsock()
   socket.on('disconnect', function (data) {
     if (myid != null && pending == false) {pending = true;setTimeout(newsock,12000); return;}
     lstat('danger', 'غير متصل'); close(); });
-  socket.on('connect_error', function (data) {console.log('connect_error'); lstat('danger', 'غير متصل'); close(); });
-  socket.on('connect_timeout', function (data) {console.log('connect_timeout'); lstat('danger', 'غير متصل'); close(); }); 
-  socket.on('error', function (data) {console.log('error'); lstat('danger', 'غير متصل'); close(); });
+  socket.on('connect_error', function (data) {console.log('connect_error'); lstat('danger', 'بعدك ممتصل'); close(); });
+  socket.on('connect_timeout', function (data) {console.log('connect_timeout'); lstat('danger', 'بعدك ممتصل'); close(); }); 
+  socket.on('error', function (data) {console.log('error'); lstat('danger', 'بعدك ممتصل'); close(); });
 }
 function processq() {
   for (var i = 0; i < onq.length && i < 20; i++) {
@@ -397,7 +397,7 @@ var bcc = 0;
 var confirmOnPageExit = function (e) {
   e = e || window.event;
 
-  var message = 'هل تريد مغادره الدردشه؟';
+  var message = 'تريد تفلت من الشات؟';
 
   if (e) {
     e.returnValue = message;
@@ -434,21 +434,21 @@ function ondata(cmd, data) {
             $('#d2,.footer,#d0').show(); fixSize();
             break;
           case "noname":
-            lstat('warning', 'هذا الإسم غير مسجل !');
+            lstat('warning', 'هذا اسمك ممسجل');
             break;
           case "badname":
-            lstat('warning', 'يرجى إختيار أسم آخر');
+            lstat('warning', 'اكتب اسم حمبي');
             break;
           case "usedname":
-            lstat('danger', 'هذا الإسم مسجل من قبل');
+            lstat('danger', 'شوفلك غير اسم');
             break;
           case "badpass":
             lstat('warning', 'كلمه المرور غير مناسبه');
           case "wrong":
-            lstat('danger', 'كلمه المرور غير صحيحه');
+            lstat('danger', 'اذكر الباسوورد هذا خطآ');
             break;
           case "reg":
-            lstat('success', 'تم تسجيل العضويه بنجاح !');
+            lstat('success', 'مبروك سجلت !');
             $('#u2').val($('#u3').val());
             $('#pass1').val($('#pass2').val());
             login(2);
@@ -964,7 +964,7 @@ function star(u, points) {
 }
 function sendpm(d) {
   if (ismuted(getuser(d.data.uid))) {
-    alert('لا يمكنك الدردشه مع شخص قمت بـ تجاهله\nيرجى إلغاء التجاهل');
+    alert('الغي التجاهل\nحتى تحجي ويا هيه مال جاقات');
     return;
   }
   var m = $(".tbox" + d.data.uid).val();
@@ -975,7 +975,7 @@ function sendpm(d) {
 
 }
 function pmsg() {
-  var m = prompt('اكتب نص الإعلان', "");
+  var m = prompt('لدز اعلان بدون سبب', "");
   if (m == '' || m == null) { return; }
   m = m.split('\n').join('');
   if (m == "%0A" || m == "%0a" || m == '' || m == '\n') { return; }
@@ -1050,7 +1050,7 @@ var rhtml = "*";
 
 function rjoin(rid) {
   var pwd = '';
-  if (getroom(rid).needpass) { pwd = prompt('كلمه المرور؟', ''); if (pwd == '') { return; } }
+  if (getroom(rid).needpass) { pwd = prompt('العب بعيد حمبي!', ''); if (pwd == '') { return; } }
   send('rjoin', { id: rid, pwd: pwd });
 }
 var umsg = "*";
