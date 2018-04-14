@@ -119,7 +119,15 @@ div#l2 ,div#l3 {
     border-radius: 15px;
     height: 69px;
 }
-
+div#l1 {
+    border-bottom: 2px solid;
+    margin-bottom: 2px;
+    border-top: 0px solid;
+    margin-top: 0px;
+    border-color: #FF0897;
+    border-radius: 15px;
+    height: 60px;
+}
 nav.nav-tabs.fl {
     height: auto!important;
 }
