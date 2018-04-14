@@ -22,7 +22,6 @@ $(` <center><div></div><center>
 حَبيبٌ أنتَ قلْ لي أمْ عَدوٌّ
 ففعلكَ ليسَ يفعلهُ حبيبُ !&nbsp;</div>
       </div>
-      </div>
 &nbsp;<br />
 &nbsp;</div>
       </div>
