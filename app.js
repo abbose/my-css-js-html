@@ -719,7 +719,7 @@ function ondata(cmd, data) {
   }
 }
 
- var callstat=0;
+  var callstat=0;
  var callid=null;
  // 0=idle,1=calling,2=incall 
 function call(id) {
