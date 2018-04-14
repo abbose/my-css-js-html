@@ -126,7 +126,7 @@ div#l1 {
     margin-top: 0px;
     border-color: #FF0897;
     border-radius: 15px;
-    height: 60px;
+    height: 50px;
 }
 nav.nav-tabs.fl {
     height: auto!important;
