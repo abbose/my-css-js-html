@@ -333,3 +333,5 @@ div#l2.grow.break.tab-pane.fade.active.in {
 div#l3.grow.break.tab-pane.fade.active.in {
     height: auto!important;
 }
+.fl.nosel.label.pnhead, .label.fl.hand.fa.fa-info.title {font-family: 'jazeera',FontAwesome;
+color: #780444;}
