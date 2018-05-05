@@ -465,7 +465,7 @@ ul.nav.nav-tabs.fl
 	transform-style:preserve-3d;
 	border-radius:40px
 }
-.ae.label.label-primary.fa.fa-gear, .ae.fa.label.fa-commenting-o.label-warning, .ae.fa.label.label-primary.fa-users, .ae.fa.chats.label.fa-comment.label-primary, .ae.fa.label.label-primary.fa-user, .ae.fa.label.fa-commenting-o.label-primary, .fa.fa-sign-out.fl.btn.btn-primary, .fa.fa-send.fl.btn btn-primary, .ae.fa.chats.label.fa-comment.label-warning, .fa.fa-send.fl.btn.btn-primary, .fa fa-send.sndpm.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary {
+.ae.label.label-primary.fa.fa-gear, .ae.fa.label.fa-commenting-o.label-warning, .ae.fa.label.label-primary.fa-users, .ae.fa.chats.label.fa-comment.label-primary, .ae.fa.label.label-primary.fa-user, .ae.fa.label.fa-commenting-o.label-primary, .fa.fa-sign-out.fl.btn.btn-primary, .fa.fa-send.fl.btn btn-primary, .fa.fa-send.fl.btn.btn-primary, .fa fa-send.sndpm.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary {
 	background-image:url(https://iqr30.com/sico/z1cbht7f6r10.png)
 }
 #asim6 {
@@ -474,3 +474,5 @@ ul.nav.nav-tabs.fl
 	float:left;
 	transform-style:preserve-3d
 }
+.ae.fa.chats.label.fa-comment.label-warning {background-image:url(sico/z1cbhs37gh10.png)}
+.a {background-color: #FFFFFF; border-radius: 15px 15px 15px 15px; font-family: 'jazeera',FontAwesome; padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;color: #ba3c66;}
