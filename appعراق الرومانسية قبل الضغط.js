@@ -136,7 +136,7 @@ function newsock()
 {
    socket = io('', { reconnection:false, transportstra: ['polling', 'websocket'] });
    socket.on('connect', function () {
-    lstat('success', 'متصل يا حلو'); $('#tlogins button').removeAttr('disabled');
+    lstat('success', 'يآ هلا'); $('#tlogins button').removeAttr('disabled');
     if (pending) { socket.emit('re', { token: token });pending=false; }
     if (getUrlParameter('enter') != null) {
       $('#u1').val(hash([new Date().getTime()], 256) + '_زائر');
